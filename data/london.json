@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  334,
-    "url":  "https://www.islamicfinder.org/world/uk/2643743/",
-    "source":  "islamicfinder",
     "country":  "UK",
-    "city":  "London",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:19",
@@ -2679,5 +2673,8 @@
                       "date":  "31/11/2026",
                       "fajr":  "06:26"
                   }
-              ]
+              ],
+    "total_days":  334,
+    "year":  2026,
+    "city":  "London"
 }

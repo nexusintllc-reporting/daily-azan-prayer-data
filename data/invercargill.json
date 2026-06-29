@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/new zealand/2189529/",
-    "source":  "islamicfinder",
     "country":  "New Zealand",
-    "city":  "Invercargill",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "02:00",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "04:28"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Invercargill"
 }

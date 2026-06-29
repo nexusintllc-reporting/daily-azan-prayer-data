@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/canada/6141256/",
-    "source":  "islamicfinder",
     "country":  "Canada",
-    "city":  "Saskatoon",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "01:20",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "07:10"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Saskatoon"
 }

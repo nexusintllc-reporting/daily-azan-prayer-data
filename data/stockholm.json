@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/sweden/2673730/",
-    "source":  "islamicfinder",
     "country":  "Sweden",
-    "city":  "Stockholm",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:02",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "05:36"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Stockholm"
 }

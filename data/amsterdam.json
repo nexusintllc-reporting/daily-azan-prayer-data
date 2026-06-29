@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/netherlands/2759794/",
-    "source":  "islamicfinder",
     "country":  "Netherlands",
-    "city":  "Amsterdam",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:54",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "06:25"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Amsterdam"
 }

@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/usa/5879400/",
-    "source":  "islamicfinder",
     "country":  "USA",
-    "city":  "Anchorage",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "01:14",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "07:13"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Anchorage"
 }

@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/france/2988507/",
-    "source":  "islamicfinder",
     "country":  "France",
-    "city":  "Paris",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "01:05",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "07:10"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Paris"
 }

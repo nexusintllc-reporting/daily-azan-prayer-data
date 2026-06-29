@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/uk/2644210/",
-    "source":  "islamicfinder",
     "country":  "UK",
-    "city":  "Liverpool",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:26",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "05:57"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Liverpool"
 }

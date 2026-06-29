@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/canada/6325494/",
-    "source":  "islamicfinder",
     "country":  "Canada",
-    "city":  "Quebec City",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "11:59",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "05:44"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Quebec City"
 }

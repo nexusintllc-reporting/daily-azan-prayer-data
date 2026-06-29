@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/usa/5746545/",
-    "source":  "islamicfinder",
     "country":  "USA",
-    "city":  "Portland",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:25",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "06:08"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Portland"
 }

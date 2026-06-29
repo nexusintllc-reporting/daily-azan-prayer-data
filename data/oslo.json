@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/norway/3143244/",
-    "source":  "islamicfinder",
     "country":  "Norway",
-    "city":  "Oslo",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:31",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "06:06"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Oslo"
 }

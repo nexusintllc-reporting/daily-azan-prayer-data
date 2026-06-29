@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/austria/2761369/",
-    "source":  "islamicfinder",
     "country":  "Austria",
-    "city":  "Vienna",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:09",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "05:37"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Vienna"
 }

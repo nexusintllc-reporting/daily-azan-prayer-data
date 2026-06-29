@@ -1,11 +1,5 @@
 ﻿{
-    "year":  2026,
-    "total_days":  365,
-    "url":  "https://www.islamicfinder.org/world/czech republic/3067696/",
-    "source":  "islamicfinder",
     "country":  "Czech Republic",
-    "city":  "Prague",
-    "generated":  "2026-06-29",
     "times":  [
                   {
                       "dhuhr":  "12:16",
@@ -2927,5 +2921,8 @@
                       "date":  "31/12/2026",
                       "fajr":  "05:45"
                   }
-              ]
+              ],
+    "total_days":  365,
+    "year":  2026,
+    "city":  "Prague"
 }
