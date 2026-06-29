@@ -1,6 +1,231 @@
 ﻿{
     "year":  2026,
-    "cities":  null,
-    "last_updated":  null,
-    "total_cities":  null
+    "cities":  {
+                   "Minneapolis":  {
+                                       "days":  365,
+                                       "file":  "minneapolis.json"
+                                   },
+                   "Astana":  {
+                                  "days":  365,
+                                  "file":  "astana.json"
+                              },
+                   "Kazan":  {
+                                 "days":  365,
+                                 "file":  "kazan.json"
+                             },
+                   "Ushuaia":  {
+                                   "days":  365,
+                                   "file":  "ushuaia.json"
+                               },
+                   "Seattle":  {
+                                   "days":  365,
+                                   "file":  "seattle.json"
+                               },
+                   "Inverness":  {
+                                     "days":  365,
+                                     "file":  "inverness.json"
+                                 },
+                   "St. Johns":  {
+                                     "days":  365,
+                                     "file":  "st._johns.json"
+                                 },
+                   "Ottawa":  {
+                                  "days":  365,
+                                  "file":  "ottawa.json"
+                              },
+                   "Cork":  {
+                                "days":  365,
+                                "file":  "cork.json"
+                            },
+                   "Invercargill":  {
+                                        "days":  365,
+                                        "file":  "invercargill.json"
+                                    },
+                   "Edmonton":  {
+                                    "days":  365,
+                                    "file":  "edmonton.json"
+                                },
+                   "Amsterdam":  {
+                                     "days":  365,
+                                     "file":  "amsterdam.json"
+                                 },
+                   "Fairbanks":  {
+                                     "days":  365,
+                                     "file":  "fairbanks.json"
+                                 },
+                   "Berlin":  {
+                                  "days":  365,
+                                  "file":  "berlin.json"
+                              },
+                   "Paris":  {
+                                 "days":  365,
+                                 "file":  "paris.json"
+                             },
+                   "Leeds":  {
+                                 "days":  365,
+                                 "file":  "leeds.json"
+                             },
+                   "Warsaw":  {
+                                  "days":  365,
+                                  "file":  "warsaw.json"
+                              },
+                   "Newcastle":  {
+                                     "days":  365,
+                                     "file":  "newcastle.json"
+                                 },
+                   "Punta Arenas":  {
+                                        "days":  365,
+                                        "file":  "punta_arenas.json"
+                                    },
+                   "Manchester":  {
+                                      "days":  365,
+                                      "file":  "manchester.json"
+                                  },
+                   "Detroit":  {
+                                   "days":  365,
+                                   "file":  "detroit.json"
+                               },
+                   "Belfast":  {
+                                   "days":  365,
+                                   "file":  "belfast.json"
+                               },
+                   "Vienna":  {
+                                  "days":  365,
+                                  "file":  "vienna.json"
+                              },
+                   "Nottingham":  {
+                                      "days":  365,
+                                      "file":  "nottingham.json"
+                                  },
+                   "Saskatoon":  {
+                                     "days":  365,
+                                     "file":  "saskatoon.json"
+                                 },
+                   "Vilnius":  {
+                                   "days":  365,
+                                   "file":  "vilnius.json"
+                               },
+                   "Stockholm":  {
+                                     "days":  365,
+                                     "file":  "stockholm.json"
+                                 },
+                   "Murmansk":  {
+                                    "days":  365,
+                                    "file":  "murmansk.json"
+                                },
+                   "Quebec City":  {
+                                       "days":  365,
+                                       "file":  "quebec_city.json"
+                                   },
+                   "Portland":  {
+                                    "days":  365,
+                                    "file":  "portland.json"
+                                },
+                   "Calgary":  {
+                                   "days":  365,
+                                   "file":  "calgary.json"
+                               },
+                   "Vancouver":  {
+                                     "days":  365,
+                                     "file":  "vancouver.json"
+                                 },
+                   "Halifax":  {
+                                   "days":  365,
+                                   "file":  "halifax.json"
+                               },
+                   "London":  {
+                                  "days":  365,
+                                  "file":  "london.json"
+                              },
+                   "Winnipeg":  {
+                                    "days":  365,
+                                    "file":  "winnipeg.json"
+                                },
+                   "Montreal":  {
+                                    "days":  365,
+                                    "file":  "montreal.json"
+                                },
+                   "Saint Petersburg":  {
+                                            "days":  365,
+                                            "file":  "saint_petersburg.json"
+                                        },
+                   "Liverpool":  {
+                                     "days":  365,
+                                     "file":  "liverpool.json"
+                                 },
+                   "Brussels":  {
+                                    "days":  365,
+                                    "file":  "brussels.json"
+                                },
+                   "Copenhagen":  {
+                                      "days":  365,
+                                      "file":  "copenhagen.json"
+                                  },
+                   "Bristol":  {
+                                   "days":  365,
+                                   "file":  "bristol.json"
+                               },
+                   "Aberdeen":  {
+                                    "days":  365,
+                                    "file":  "aberdeen.json"
+                                },
+                   "Oslo":  {
+                                "days":  365,
+                                "file":  "oslo.json"
+                            },
+                   "Reykjavik":  {
+                                     "days":  365,
+                                     "file":  "reykjavik.json"
+                                 },
+                   "Toronto":  {
+                                   "days":  365,
+                                   "file":  "toronto.json"
+                               },
+                   "Glasgow":  {
+                                   "days":  365,
+                                   "file":  "glasgow.json"
+                               },
+                   "Edinburgh":  {
+                                     "days":  365,
+                                     "file":  "edinburgh.json"
+                                 },
+                   "Tallinn":  {
+                                   "days":  365,
+                                   "file":  "tallinn.json"
+                               },
+                   "Moscow":  {
+                                  "days":  365,
+                                  "file":  "moscow.json"
+                              },
+                   "Riga":  {
+                                "days":  365,
+                                "file":  "riga.json"
+                            },
+                   "Anchorage":  {
+                                     "days":  365,
+                                     "file":  "anchorage.json"
+                                 },
+                   "Prague":  {
+                                  "days":  365,
+                                  "file":  "prague.json"
+                              },
+                   "Helsinki":  {
+                                    "days":  365,
+                                    "file":  "helsinki.json"
+                                },
+                   "Dublin":  {
+                                  "days":  365,
+                                  "file":  "dublin.json"
+                              },
+                   "Sheffield":  {
+                                     "days":  365,
+                                     "file":  "sheffield.json"
+                                 },
+                   "Birmingham":  {
+                                      "days":  365,
+                                      "file":  "birmingham.json"
+                                  }
+               },
+    "last_updated":  "2026-06-29T17:21:38Z",
+    "total_cities":  56
 }
