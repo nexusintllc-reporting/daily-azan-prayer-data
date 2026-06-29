@@ -1,0 +1,344 @@
+﻿{
+    "year":  2026,
+    "cities":  {
+                   "Minneapolis":  {
+                                       "days":  365,
+                                       "failed_months":  0,
+                                       "file":  "minneapolis.json",
+                                       "country":  "USA"
+                                   },
+                   "Astana":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "astana.json",
+                                  "country":  "Kazakhstan"
+                              },
+                   "Kazan":  {
+                                 "days":  365,
+                                 "failed_months":  0,
+                                 "file":  "kazan.json",
+                                 "country":  "Russia"
+                             },
+                   "Ushuaia":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "ushuaia.json",
+                                   "country":  "Argentina"
+                               },
+                   "Seattle":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "seattle.json",
+                                   "country":  "USA"
+                               },
+                   "Inverness":  {
+                                     "days":  334,
+                                     "failed_months":  1,
+                                     "file":  "inverness.json",
+                                     "country":  "UK"
+                                 },
+                   "St. Johns":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "st._johns.json",
+                                     "country":  "Canada"
+                                 },
+                   "Ottawa":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "ottawa.json",
+                                  "country":  "Canada"
+                              },
+                   "Cork":  {
+                                "days":  365,
+                                "failed_months":  0,
+                                "file":  "cork.json",
+                                "country":  "Ireland"
+                            },
+                   "Invercargill":  {
+                                        "days":  365,
+                                        "failed_months":  0,
+                                        "file":  "invercargill.json",
+                                        "country":  "New Zealand"
+                                    },
+                   "Edmonton":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "edmonton.json",
+                                    "country":  "Canada"
+                                },
+                   "Amsterdam":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "amsterdam.json",
+                                     "country":  "Netherlands"
+                                 },
+                   "Fairbanks":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "fairbanks.json",
+                                     "country":  "USA"
+                                 },
+                   "Berlin":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "berlin.json",
+                                  "country":  "Germany"
+                              },
+                   "Paris":  {
+                                 "days":  365,
+                                 "failed_months":  0,
+                                 "file":  "paris.json",
+                                 "country":  "France"
+                             },
+                   "Leeds":  {
+                                 "days":  365,
+                                 "failed_months":  0,
+                                 "file":  "leeds.json",
+                                 "country":  "UK"
+                             },
+                   "Warsaw":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "warsaw.json",
+                                  "country":  "Poland"
+                              },
+                   "Newcastle":  {
+                                     "days":  334,
+                                     "failed_months":  1,
+                                     "file":  "newcastle.json",
+                                     "country":  "UK"
+                                 },
+                   "Punta Arenas":  {
+                                        "days":  365,
+                                        "failed_months":  0,
+                                        "file":  "punta_arenas.json",
+                                        "country":  "Chile"
+                                    },
+                   "Manchester":  {
+                                      "days":  334,
+                                      "failed_months":  1,
+                                      "file":  "manchester.json",
+                                      "country":  "UK"
+                                  },
+                   "Detroit":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "detroit.json",
+                                   "country":  "USA"
+                               },
+                   "Belfast":  {
+                                   "days":  334,
+                                   "failed_months":  1,
+                                   "file":  "belfast.json",
+                                   "country":  "UK"
+                               },
+                   "Vienna":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "vienna.json",
+                                  "country":  "Austria"
+                              },
+                   "Nottingham":  {
+                                      "days":  334,
+                                      "failed_months":  1,
+                                      "file":  "nottingham.json",
+                                      "country":  "UK"
+                                  },
+                   "Saskatoon":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "saskatoon.json",
+                                     "country":  "Canada"
+                                 },
+                   "Vilnius":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "vilnius.json",
+                                   "country":  "Lithuania"
+                               },
+                   "Stockholm":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "stockholm.json",
+                                     "country":  "Sweden"
+                                 },
+                   "Murmansk":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "murmansk.json",
+                                    "country":  "Russia"
+                                },
+                   "Quebec City":  {
+                                       "days":  365,
+                                       "failed_months":  0,
+                                       "file":  "quebec_city.json",
+                                       "country":  "Canada"
+                                   },
+                   "Portland":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "portland.json",
+                                    "country":  "USA"
+                                },
+                   "Calgary":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "calgary.json",
+                                   "country":  "Canada"
+                               },
+                   "Vancouver":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "vancouver.json",
+                                     "country":  "Canada"
+                                 },
+                   "Halifax":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "halifax.json",
+                                   "country":  "Canada"
+                               },
+                   "London":  {
+                                  "days":  334,
+                                  "failed_months":  1,
+                                  "file":  "london.json",
+                                  "country":  "UK"
+                              },
+                   "Winnipeg":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "winnipeg.json",
+                                    "country":  "Canada"
+                                },
+                   "Montreal":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "montreal.json",
+                                    "country":  "Canada"
+                                },
+                   "Saint Petersburg":  {
+                                            "days":  365,
+                                            "failed_months":  0,
+                                            "file":  "saint_petersburg.json",
+                                            "country":  "Russia"
+                                        },
+                   "Liverpool":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "liverpool.json",
+                                     "country":  "UK"
+                                 },
+                   "Brussels":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "brussels.json",
+                                    "country":  "Belgium"
+                                },
+                   "Copenhagen":  {
+                                      "days":  365,
+                                      "failed_months":  0,
+                                      "file":  "copenhagen.json",
+                                      "country":  "Denmark"
+                                  },
+                   "Bristol":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "bristol.json",
+                                   "country":  "UK"
+                               },
+                   "Aberdeen":  {
+                                    "days":  334,
+                                    "failed_months":  1,
+                                    "file":  "aberdeen.json",
+                                    "country":  "UK"
+                                },
+                   "Oslo":  {
+                                "days":  365,
+                                "failed_months":  0,
+                                "file":  "oslo.json",
+                                "country":  "Norway"
+                            },
+                   "Reykjavik":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "reykjavik.json",
+                                     "country":  "Iceland"
+                                 },
+                   "Toronto":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "toronto.json",
+                                   "country":  "Canada"
+                               },
+                   "Glasgow":  {
+                                   "days":  334,
+                                   "failed_months":  1,
+                                   "file":  "glasgow.json",
+                                   "country":  "UK"
+                               },
+                   "Edinburgh":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "edinburgh.json",
+                                     "country":  "UK"
+                                 },
+                   "Tallinn":  {
+                                   "days":  365,
+                                   "failed_months":  0,
+                                   "file":  "tallinn.json",
+                                   "country":  "Estonia"
+                               },
+                   "Moscow":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "moscow.json",
+                                  "country":  "Russia"
+                              },
+                   "Riga":  {
+                                "days":  365,
+                                "failed_months":  0,
+                                "file":  "riga.json",
+                                "country":  "Latvia"
+                            },
+                   "Anchorage":  {
+                                     "days":  365,
+                                     "failed_months":  0,
+                                     "file":  "anchorage.json",
+                                     "country":  "USA"
+                                 },
+                   "Prague":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "prague.json",
+                                  "country":  "Czech Republic"
+                              },
+                   "Helsinki":  {
+                                    "days":  365,
+                                    "failed_months":  0,
+                                    "file":  "helsinki.json",
+                                    "country":  "Finland"
+                                },
+                   "Dublin":  {
+                                  "days":  365,
+                                  "failed_months":  0,
+                                  "file":  "dublin.json",
+                                  "country":  "Ireland"
+                              },
+                   "Sheffield":  {
+                                     "days":  334,
+                                     "failed_months":  1,
+                                     "file":  "sheffield.json",
+                                     "country":  "UK"
+                                 },
+                   "Birmingham":  {
+                                      "days":  334,
+                                      "failed_months":  1,
+                                      "file":  "birmingham.json",
+                                      "country":  "UK"
+                                  }
+               },
+    "source":  "islamicfinder.org",
+    "last_updated":  "2026-06-29T13:31:40Z",
+    "total_cities":  56
+}
