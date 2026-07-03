@@ -11,7 +11,9 @@ jobs:
       - name: Decode and run scraper
         shell: pwsh
         run: |
-          $script = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
+          $encoded = '${{ secrets.SCRAPER_SCRIPT }}'
+          $bytes = [Convert]::FromBase64String($encoded)
+          $script = [Text.Encoding]::UTF8.GetString($bytes)
           $script | Out-File -FilePath scraper.ps1 -Encoding UTF8
           ./scraper.ps1
       - name: Commit and push
