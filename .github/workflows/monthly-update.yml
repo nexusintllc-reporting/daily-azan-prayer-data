@@ -1,24 +1,22 @@
-﻿name: Monthly Prayer Times Update
-
+name: Auto-Update Prayer Times
 on:
   schedule:
     - cron: '0 0 1 * *'
   workflow_dispatch:
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Run scraper
+      - name: Decode and run scraper
         shell: pwsh
         run: |
-          ./scripts/scrape_all_cities.ps1
-      
+          $script = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
+          $script | Out-File -FilePath scraper.ps1 -Encoding UTF8
+          ./scraper.ps1
       - name: Commit and push
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/
-          git diff --staged --quiet || (git commit -m "Auto-update prayer times" && git push)
+          git diff --staged --quiet || (git commit -m "Auto-update: $(date +'%B %Y')" && git push)
