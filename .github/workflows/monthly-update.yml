@@ -8,6 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
+      - name: Delete old format files
+        shell: pwsh
+        run: |
+          $oldFiles = @("london.json","glasgow.json","edinburgh.json","manchester.json","birmingham.json","leeds.json","liverpool.json","sheffield.json","bristol.json","newcastle.json","nottingham.json","belfast.json","aberdeen.json","inverness.json","dublin.json","cork.json","vancouver.json","calgary.json","edmonton.json","winnipeg.json","saskatoon.json","toronto.json","montreal.json","ottawa.json","quebec_city.json","halifax.json","st._johns.json","seattle.json","portland.json","minneapolis.json","detroit.json","anchorage.json","fairbanks.json","copenhagen.json","stockholm.json","oslo.json","helsinki.json","reykjavik.json","tallinn.json","riga.json","vilnius.json","berlin.json","paris.json","amsterdam.json","warsaw.json","prague.json","vienna.json","brussels.json","moscow.json","saint_petersburg.json","kazan.json","murmansk.json","astana.json","punta_arenas.json","ushuaia.json","invercargill.json")
+          foreach ($file in $oldFiles) {
+            if (Test-Path "data/$file") {
+              Remove-Item "data/$file"
+              Write-Host "Deleted: $file"
+            }
+          }
+          
       - name: Decode and run scraper
         shell: pwsh
         run: |
@@ -16,6 +28,7 @@ jobs:
           $script = [Text.Encoding]::UTF8.GetString($bytes)
           $script | Out-File -FilePath scraper.ps1 -Encoding UTF8
           ./scraper.ps1
+          
       - name: Commit and push
         run: |
           git config --global user.name 'github-actions[bot]'
