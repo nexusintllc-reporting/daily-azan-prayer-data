@@ -12,22 +12,12 @@ jobs:
       - name: Combine and run scraper
         shell: pwsh
         run: |
-          # Decode both parts
           $part1 = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.CITIES_PART1 }}"))
           $part2 = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.CITIES_PART2 }}"))
-          
-          # Build cities array properly
-          $citiesArray = "`$cities = @(`n" + $part1.Trim() + "`n" + $part2.Trim() + "`n)"
-          
-          # Decode scraper
+          $citiesBlock = '$cities = @(' + "`n" + $part1.TrimEnd() + "`n" + $part2.TrimStart() + "`n)"
           $scraper = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
-          
-          # Replace placeholder
-          $scraper = $scraper.Replace('###CITIES_PLACEHOLDER###', $citiesArray)
-          
-          # Save and run
-          $scraper | Out-File -FilePath scraper.ps1 -Encoding UTF8
-          Write-Host "Scraper saved. Running..."
+          $finalScript = $scraper.Replace('###CITIES_PLACEHOLDER###', $citiesBlock)
+          $finalScript | Out-File -FilePath scraper.ps1 -Encoding UTF8 -NoNewline
           ./scraper.ps1
           
       - name: Commit and push
