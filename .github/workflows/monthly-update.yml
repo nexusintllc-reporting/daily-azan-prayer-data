@@ -9,24 +9,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Delete old format files
+      - name: Combine and run scraper
         shell: pwsh
         run: |
-          $oldFiles = @("london.json","glasgow.json","edinburgh.json","manchester.json","birmingham.json","leeds.json","liverpool.json","sheffield.json","bristol.json","newcastle.json","nottingham.json","belfast.json","aberdeen.json","inverness.json","dublin.json","cork.json","vancouver.json","calgary.json","edmonton.json","winnipeg.json","saskatoon.json","toronto.json","montreal.json","ottawa.json","quebec_city.json","halifax.json","st._johns.json","seattle.json","portland.json","minneapolis.json","detroit.json","anchorage.json","fairbanks.json","copenhagen.json","stockholm.json","oslo.json","helsinki.json","reykjavik.json","tallinn.json","riga.json","vilnius.json","berlin.json","paris.json","amsterdam.json","warsaw.json","prague.json","vienna.json","brussels.json","moscow.json","saint_petersburg.json","kazan.json","murmansk.json","astana.json","punta_arenas.json","ushuaia.json","invercargill.json")
-          foreach ($file in $oldFiles) {
-            if (Test-Path "data/$file") {
-              Remove-Item "data/$file"
-              Write-Host "Deleted: $file"
-            }
-          }
+          # Decode cities part 1
+          $cities1 = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.CITIES_PART1 }}"))
+          # Decode cities part 2
+          $cities2 = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.CITIES_PART2 }}"))
+          # Combine
+          $allCities = "`$cities = @(`n" + $cities1 + $cities2 + "`n)"
           
-      - name: Decode and run scraper
-        shell: pwsh
-        run: |
-          $encoded = '${{ secrets.SCRAPER_SCRIPT }}'
-          $bytes = [Convert]::FromBase64String($encoded)
-          $script = [Text.Encoding]::UTF8.GetString($bytes)
-          $script | Out-File -FilePath scraper.ps1 -Encoding UTF8
+          # Decode scraper logic
+          $scraper = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
+          # Replace placeholder with actual cities
+          $scraper = $scraper -replace '###CITIES_PLACEHOLDER###', $allCities
+          
+          # Save and run
+          $scraper | Out-File -FilePath scraper.ps1 -Encoding UTF8
           ./scraper.ps1
           
       - name: Commit and push
