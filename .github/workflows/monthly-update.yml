@@ -17,11 +17,9 @@ jobs:
           $citiesBlock = $part1 + $part2
           $scraper = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
           $finalScript = $scraper.Replace('###CITIES_PLACEHOLDER###', $citiesBlock)
-          [System.IO.File]::WriteAllText("scraper.ps1", $finalScript)
-          Write-Host "Script saved. Checking for errors..."
-          Get-Content scraper.ps1 | Select-Object -Last 10
-          Write-Host "Running..."
-          ./scraper.ps1
+          $finalScript | Out-File -FilePath scraper.ps1 -Encoding UTF8
+          Write-Host "Running scraper..."
+          pwsh -File scraper.ps1
           
       - name: Commit and push
         run: |
