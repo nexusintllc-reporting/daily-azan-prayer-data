@@ -17,9 +17,13 @@ jobs:
           $citiesBlock = $part1 + $part2
           $scraper = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
           $finalScript = $scraper.Replace('###CITIES_PLACEHOLDER###', $citiesBlock)
+          Set-Content -Path scraper.ps1 -Value $finalScript
           
-          Write-Host "Executing script directly..."
-          Invoke-Expression $finalScript
+          Write-Host "Running..."
+          $ErrorActionPreference = 'Continue'
+          $output = & { . ./scraper.ps1 } 2>&1
+          $output | ForEach-Object { Write-Host $_ }
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
           
       - name: Commit and push
         run: |
