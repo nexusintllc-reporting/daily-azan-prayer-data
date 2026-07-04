@@ -14,10 +14,10 @@ jobs:
         run: |
           $part1 = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.CITIES_PART1 }}"))
           $part2 = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.CITIES_PART2 }}"))
-          $citiesBlock = $part1.TrimEnd() + "`n" + $part2.TrimStart()
+          $citiesBlock = $part1 + $part2
           $scraper = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("${{ secrets.SCRAPER_SCRIPT }}"))
           $finalScript = $scraper.Replace('###CITIES_PLACEHOLDER###', $citiesBlock)
-          Set-Content -Path scraper.ps1 -Value $finalScript -Encoding UTF8 -NoNewline
+          [System.IO.File]::WriteAllText("scraper.ps1", $finalScript)
           ./scraper.ps1
           
       - name: Commit and push
