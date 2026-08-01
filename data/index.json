@@ -1,2396 +1,2072 @@
 {
   "year": 2026,
   "cities": {
-    "Krakowa": {
-      "file": "krakowa_poland.json",
-      "days": 365
-    },
-    "Alatay": {
-      "file": "alatay_kazakhstan.json",
-      "days": 365
-    },
-    "Aa Bach": {
-      "file": "aa_bach_germany.json",
-      "days": 365
-    },
-    "Renaix": {
-      "file": "renaix_belgium.json",
-      "days": 365
-    },
-    "Olomouc": {
-      "file": "olomouc_czech-republic.json",
-      "days": 365
-    },
-    "Adamowek": {
-      "file": "adamowek_poland.json",
-      "days": 365
-    },
-    "Aartrijke": {
-      "file": "aartrijke_belgium.json",
-      "days": 365
-    },
-    "Abstich": {
-      "file": "abstich_poland.json",
-      "days": 365
-    },
-    "Abaer": {
-      "file": "abaer_iceland.json",
-      "days": 365
-    },
-    "Aaftinkbrug": {
-      "file": "aaftinkbrug_netherlands.json",
-      "days": 365
-    },
-    "Ahornberg": {
-      "file": "ahornberg_czech-republic.json",
-      "days": 365
-    },
-    "Afangi": {
-      "file": "afangi_iceland.json",
-      "days": 365
-    },
-    "Aareajoki": {
-      "file": "aareajoki_sweden.json",
-      "days": 365
-    },
-    "Abern": {
-      "file": "abern_austria.json",
-      "days": 365
-    },
-    "Osakarovka": {
-      "file": "osakarovka_kazakhstan.json",
-      "days": 365
-    },
-    "Abakan": {
-      "file": "abakan_russia.json",
-      "days": 365
-    },
-    "Helsinki": {
-      "file": "helsinki_finland.json",
-      "days": 365
-    },
-    "Sandefjord": {
-      "file": "sandefjord_norway.json",
-      "days": 365
-    },
-    "Moscow Central": {
-      "file": "moscow_central_russia.json",
-      "days": 365
-    },
-    "Dublin Bay": {
-      "file": "dublin_bay_ireland.json",
-      "days": 365
-    },
-    "Ahrendorf": {
-      "file": "ahrendorf_czech-republic.json",
-      "days": 365
-    },
-    "Bradford": {
-      "file": "bradford_uk.json",
-      "days": 365
-    },
-    "Borlange": {
-      "file": "borlange_sweden.json",
-      "days": 365
-    },
-    "Ust Kamenogorsk": {
-      "file": "ust_kamenogorsk_kazakhstan.json",
-      "days": 365
-    },
-    "Abbeyville": {
-      "file": "abbeyville_ireland.json",
-      "days": 365
-    },
-    "A La Chaire": {
-      "file": "a_la_chaire_belgium.json",
-      "days": 365
-    },
-    "Abja": {
-      "file": "abja_estonia.json",
-      "days": 365
-    },
-    "Ekiman": {
-      "file": "ekiman_belarus.json",
-      "days": 365
-    },
-    "S Gravenmoer": {
-      "file": "s_gravenmoer_netherlands.json",
-      "days": 365
-    },
-    "T Haantje": {
-      "file": "t_haantje_netherlands.json",
-      "days": 365
-    },
-    "Rigas Iurmala": {
-      "file": "rigas_iurmala_latvia.json",
-      "days": 365
-    },
-    "Maaseik": {
-      "file": "maaseik_belgium.json",
-      "days": 365
-    },
-    "Adolfovice": {
-      "file": "adolfovice_czech-republic.json",
-      "days": 365
-    },
-    "A La Ligne": {
-      "file": "a_la_ligne_france.json",
-      "days": 365
-    },
-    "A Hojrup": {
-      "file": "a_hojrup_denmark.json",
-      "days": 365
-    },
-    "Leuven Vaart": {
-      "file": "leuven_vaart_belgium.json",
-      "days": 365
-    },
-    "Aartaminjarvi": {
-      "file": "aartaminjarvi_finland.json",
-      "days": 365
-    },
-    "Tilburg": {
-      "file": "tilburg_netherlands.json",
-      "days": 365
-    },
-    "Samara": {
-      "file": "samara_russia.json",
-      "days": 365
-    },
-    "Abbots Bickington": {
-      "file": "abbots_bickington_uk.json",
-      "days": 365
-    },
-    "Oslo Havn": {
-      "file": "oslo_havn_norway.json",
-      "days": 365
-    },
-    "Abbeylara": {
-      "file": "abbeylara_ireland.json",
-      "days": 365
-    },
-    "Abtsroth": {
-      "file": "abtsroth_czech-republic.json",
-      "days": 365
-    },
-    "Abberley": {
-      "file": "abberley_uk.json",
-      "days": 365
-    },
-    "Minskaya Oblast": {
-      "file": "minskaya_oblast_belarus.json",
-      "days": 365
-    },
-    "Adami": {
-      "file": "adami_latvia.json",
-      "days": 365
-    },
-    "Aavaviken": {
-      "file": "aavaviken_sweden.json",
-      "days": 365
-    },
-    "Tullamore": {
-      "file": "tullamore_ireland.json",
-      "days": 365
-    },
-    "Abbeville Les Conflans": {
-      "file": "abbeville_les_conflans_france.json",
-      "days": 365
-    },
-    "Lodz Kaliska": {
-      "file": "lodz_kaliska_poland.json",
-      "days": 365
-    },
-    "S Gravenpolder": {
-      "file": "s_gravenpolder_netherlands.json",
-      "days": 365
-    },
-    "Aasee": {
-      "file": "aasee_germany.json",
-      "days": 365
-    },
-    "Warsaw": {
-      "file": "warsaw_poland.json",
-      "days": 365
-    },
-    "Abrupe": {
-      "file": "abrupe_latvia.json",
-      "days": 365
-    },
-    "Abetzdorf": {
-      "file": "abetzdorf_austria.json",
-      "days": 365
-    },
-    "Gorky": {
-      "file": "gorky_russia.json",
-      "days": 365
-    },
-    "Rochdale": {
-      "file": "rochdale_uk.json",
-      "days": 365
-    },
-    "Aaholmi": {
-      "file": "aaholmi_finland.json",
-      "days": 365
-    },
-    "Ufa": {
-      "file": "ufa_russia.json",
-      "days": 365
-    },
-    "Kristiansund": {
-      "file": "kristiansund_norway.json",
-      "days": 365
-    },
-    "Eindhoven": {
-      "file": "eindhoven_netherlands.json",
-      "days": 365
-    },
-    "Brnov": {
-      "file": "brnov_czech-republic.json",
-      "days": 365
-    },
-    "Croydon": {
-      "file": "croydon_uk.json",
-      "days": 365
-    },
-    "Abbeshult": {
-      "file": "abbeshult_sweden.json",
-      "days": 365
-    },
-    "Karlovy Vary": {
-      "file": "karlovy_vary_czech-republic.json",
-      "days": 365
-    },
-    "Abhainn Abhoca": {
-      "file": "abhainn_abhoca_ireland.json",
-      "days": 365
-    },
-    "Acres Point": {
-      "file": "acres_point_ireland.json",
-      "days": 365
-    },
-    "Abbey Mount": {
-      "file": "abbey_mount_ireland.json",
-      "days": 365
-    },
-    "Alenina Lhota": {
-      "file": "alenina_lhota_czech-republic.json",
-      "days": 365
-    },
-    "Aadami": {
-      "file": "aadami_estonia.json",
-      "days": 365
-    },
-    "Abbots Leigh": {
-      "file": "abbots_leigh_uk.json",
-      "days": 365
-    },
-    "Reading": {
-      "file": "reading_uk.json",
-      "days": 365
-    },
-    "Leiden": {
-      "file": "leiden_netherlands.json",
-      "days": 365
-    },
-    "Abbeyleix": {
-      "file": "abbeyleix_ireland.json",
-      "days": 365
-    },
-    "Adamek": {
-      "file": "adamek_poland.json",
-      "days": 365
-    },
-    "Aarikkala": {
-      "file": "aarikkala_finland.json",
-      "days": 365
-    },
-    "Capital Region": {
-      "file": "capital_region_iceland.json",
-      "days": 365
-    },
-    "Astana": {
-      "file": "astana_kazakhstan.json",
-      "days": 365
-    },
-    "Aabla": {
-      "file": "aabla_estonia.json",
-      "days": 365
-    },
-    "Affall": {
-      "file": "affall_iceland.json",
-      "days": 365
-    },
-    "Abbetorp": {
-      "file": "abbetorp_sweden.json",
-      "days": 365
-    },
-    "Aasla": {
-      "file": "aasla_finland.json",
-      "days": 365
-    },
-    "Aarsele": {
-      "file": "aarsele_belgium.json",
-      "days": 365
-    },
-    "Abzugsgraben": {
-      "file": "abzugsgraben_austria.json",
-      "days": 365
-    },
-    "Aacher Bach": {
-      "file": "aacher_bach_germany.json",
-      "days": 365
-    },
-    "Abelkalni": {
-      "file": "abelkalni_latvia.json",
-      "days": 365
-    },
-    "A Marfontaine": {
-      "file": "a_marfontaine_belgium.json",
-      "days": 365
-    },
-    "Abertamy": {
-      "file": "abertamy_czech-republic.json",
-      "days": 365
-    },
-    "Raahe": {
-      "file": "raahe_finland.json",
-      "days": 365
-    },
-    "Maastricht": {
-      "file": "maastricht_netherlands.json",
-      "days": 365
-    },
-    "Ach": {
-      "file": "ach_austria.json",
-      "days": 365
-    },
-    "Aakoinen": {
-      "file": "aakoinen_finland.json",
-      "days": 365
-    },
-    "Bergen Op Zoom": {
-      "file": "bergen_op_zoom_netherlands.json",
-      "days": 365
-    },
-    "A I Lofoten": {
-      "file": "a_i_lofoten_norway.json",
-      "days": 365
-    },
-    "Anchorage": {
-      "file": "anchorage_usa.json",
-      "days": 365
-    },
-    "Gent": {
-      "file": "gent_belgium.json",
-      "days": 365
-    },
-    "Aakjaer": {
-      "file": "aakjaer_denmark.json",
-      "days": 365
-    },
-    "Vaasa": {
-      "file": "vaasa_finland.json",
-      "days": 365
-    },
-    "Minsk": {
-      "file": "minsk_belarus.json",
-      "days": 365
-    },
-    "Aarela": {
-      "file": "aarela_finland.json",
-      "days": 365
-    },
-    "Youghal": {
-      "file": "youghal_ireland.json",
-      "days": 365
-    },
-    "Abbotsham": {
-      "file": "abbotsham_uk.json",
-      "days": 365
-    },
-    "Abbey Cwmhir": {
-      "file": "abbey_cwmhir_uk.json",
-      "days": 365
-    },
-    "Abolkalni": {
-      "file": "abolkalni_latvia.json",
-      "days": 365
-    },
-    "Aiyansh": {
-      "file": "aiyansh_canada.json",
-      "days": 365
-    },
-    "Albrechtice": {
-      "file": "albrechtice_czech-republic.json",
-      "days": 365
-    },
-    "S Heer Arendskerke": {
-      "file": "s_heer_arendskerke_netherlands.json",
-      "days": 365
-    },
-    "Abborremala": {
-      "file": "abborremala_sweden.json",
-      "days": 365
-    },
-    "Abhainn An Scail": {
-      "file": "abhainn_an_scail_ireland.json",
-      "days": 365
-    },
-    "Bialystok Starosielce": {
-      "file": "bialystok_starosielce_poland.json",
-      "days": 365
-    },
-    "Tallinn": {
-      "file": "tallinn_estonia.json",
-      "days": 365
-    },
-    "Joensuu": {
-      "file": "joensuu_finland.json",
-      "days": 365
-    },
-    "Abbots Ann": {
-      "file": "abbots_ann_uk.json",
-      "days": 365
-    },
-    "Aalfang": {
-      "file": "aalfang_austria.json",
-      "days": 365
-    },
-    "Nottingham": {
-      "file": "nottingham_uk.json",
-      "days": 365
-    },
-    "Aulnay Sous Bois": {
-      "file": "aulnay_sous_bois_france.json",
-      "days": 365
-    },
-    "Aarle": {
-      "file": "aarle_belgium.json",
-      "days": 365
-    },
-    "Tartumaa": {
-      "file": "tartumaa_estonia.json",
-      "days": 365
-    },
-    "Abbach": {
-      "file": "abbach_germany.json",
-      "days": 365
-    },
-    "Abach": {
-      "file": "abach_germany.json",
-      "days": 365
-    },
-    "Alber": {
-      "file": "alber_czech-republic.json",
-      "days": 365
-    },
-    "Gouda": {
-      "file": "gouda_netherlands.json",
-      "days": 365
-    },
-    "Aalst": {
-      "file": "aalst_belgium.json",
-      "days": 365
-    },
-    "Faskrudsfjordur": {
-      "file": "faskrudsfjordur_iceland.json",
-      "days": 365
-    },
-    "Prestholar": {
-      "file": "prestholar_iceland.json",
-      "days": 365
-    },
-    "Adamovka": {
-      "file": "adamovka_belarus.json",
-      "days": 365
-    },
-    "Aapua": {
-      "file": "aapua_sweden.json",
-      "days": 365
-    },
-    "Yellowpit Cross Roads": {
-      "file": "yellowpit_cross_roads_ireland.json",
-      "days": 365
-    },
-    "Edinburgh": {
-      "file": "edinburgh_uk.json",
-      "days": 365
-    },
-    "Aavajarvi": {
-      "file": "aavajarvi_sweden.json",
-      "days": 365
-    },
-    "Groningen": {
-      "file": "groningen_netherlands.json",
-      "days": 365
-    },
-    "Kotka": {
-      "file": "kotka_finland.json",
-      "days": 365
-    },
-    "Semey": {
-      "file": "semey_kazakhstan.json",
-      "days": 365
-    },
-    "Brussels": {
-      "file": "brussels_belgium.json",
-      "days": 365
-    },
-    "Aerlaekjarsel": {
-      "file": "aerlaekjarsel_iceland.json",
-      "days": 365
-    },
-    "Ejwidowicze": {
-      "file": "ejwidowicze_belarus.json",
-      "days": 365
-    },
-    "Aalderstroom": {
-      "file": "aalderstroom_netherlands.json",
-      "days": 365
-    },
-    "Abhoca": {
-      "file": "abhoca_ireland.json",
-      "days": 365
-    },
-    "Linz": {
-      "file": "linz_austria.json",
-      "days": 365
-    },
-    "Haarlem": {
-      "file": "haarlem_netherlands.json",
-      "days": 365
-    },
-    "Aakenustunturi": {
-      "file": "aakenustunturi_finland.json",
-      "days": 365
-    },
-    "Zion Hill": {
-      "file": "zion_hill_ireland.json",
-      "days": 365
-    },
-    "Plzen Jih": {
-      "file": "plzen_jih_czech-republic.json",
-      "days": 365
-    },
-    "Kiev": {
-      "file": "kiev_ukraine.json",
-      "days": 365
-    },
-    "Lugansk": {
-      "file": "lugansk_ukraine.json",
-      "days": 365
-    },
-    "Wolfsburg": {
-      "file": "wolfsburg_germany.json",
-      "days": 365
-    },
-    "Roermond": {
-      "file": "roermond_netherlands.json",
-      "days": 365
-    },
-    "Aamse": {
-      "file": "aamse_estonia.json",
-      "days": 365
-    },
-    "Aakenusvaara": {
-      "file": "aakenusvaara_finland.json",
-      "days": 365
-    },
-    "Albersdorf": {
-      "file": "albersdorf_czech-republic.json",
-      "days": 365
-    },
-    "Albinsk": {
-      "file": "albinsk_belarus.json",
-      "days": 365
-    },
-    "Aartojarvi": {
-      "file": "aartojarvi_finland.json",
-      "days": 365
-    },
-    "Teplice": {
-      "file": "teplice_czech-republic.json",
-      "days": 365
-    },
-    "Aanekoski": {
-      "file": "aanekoski_finland.json",
-      "days": 365
-    },
-    "Lodz Widzew": {
-      "file": "lodz_widzew_poland.json",
-      "days": 365
-    },
-    "Ostrava Zabreh": {
-      "file": "ostrava_zabreh_czech-republic.json",
-      "days": 365
-    },
-    "Abtei": {
-      "file": "abtei_poland.json",
-      "days": 365
-    },
-    "Malmo": {
-      "file": "malmo_sweden.json",
-      "days": 365
-    },
-    "Albertyn": {
-      "file": "albertyn_belarus.json",
-      "days": 365
-    },
-    "Karlsruhe": {
-      "file": "karlsruhe_germany.json",
-      "days": 365
-    },
-    "Aagaad": {
-      "file": "aagaad_russia.json",
-      "days": 365
-    },
-    "Abaujker": {
-      "file": "abaujker_hungary.json",
-      "days": 365
-    },
-    "Abacksnas": {
-      "file": "abacksnas_sweden.json",
-      "days": 365
-    },
-    "Volda": {
-      "file": "volda_norway.json",
-      "days": 365
-    },
-    "Wien Sudbahnhof": {
-      "file": "wien_sudbahnhof_austria.json",
-      "days": 365
-    },
-    "Brno Venkov": {
-      "file": "brno_venkov_czech-republic.json",
-      "days": 365
-    },
-    "Genk": {
-      "file": "genk_belgium.json",
-      "days": 365
-    },
-    "Aguanish": {
-      "file": "aguanish_canada.json",
-      "days": 365
-    },
-    "Lund": {
-      "file": "lund_sweden.json",
-      "days": 365
-    },
-    "Aakaru": {
-      "file": "aakaru_estonia.json",
-      "days": 365
-    },
-    "Kristiansund Nord": {
-      "file": "kristiansund_nord_norway.json",
-      "days": 365
-    },
-    "S Hertogenbosch": {
-      "file": "s_hertogenbosch_netherlands.json",
-      "days": 365
-    },
-    "Aalbude": {
-      "file": "aalbude_germany.json",
-      "days": 365
-    },
-    "Aalesund": {
-      "file": "aalesund_norway.json",
-      "days": 365
-    },
-    "Punta Arenas": {
-      "file": "punta_arenas_chile.json",
-      "days": 365
-    },
-    "Rotterdam": {
-      "file": "rotterdam_netherlands.json",
-      "days": 365
-    },
-    "Achtyrka": {
-      "file": "achtyrka_ukraine.json",
-      "days": 365
-    },
-    "Aagesholm": {
-      "file": "aagesholm_denmark.json",
-      "days": 365
-    },
-    "Adamenki": {
-      "file": "adamenki_belarus.json",
-      "days": 365
-    },
-    "Saskatoon": {
-      "file": "saskatoon_canada.json",
-      "days": 365
-    },
-    "Moscow": {
-      "file": "moscow_russia.json",
-      "days": 365
-    },
-    "Derby": {
-      "file": "derby_uk.json",
-      "days": 365
-    },
-    "Breda": {
-      "file": "breda_netherlands.json",
-      "days": 365
-    },
-    "A Adino": {
-      "file": "a_adino_russia.json",
-      "days": 365
-    },
-    "Aberaeron": {
-      "file": "aberaeron_uk.json",
-      "days": 365
-    },
-    "Bodo": {
-      "file": "bodo_norway.json",
-      "days": 365
-    },
-    "Turku": {
-      "file": "turku_finland.json",
-      "days": 365
-    },
-    "Tartu": {
-      "file": "tartu_estonia.json",
-      "days": 365
-    },
-    "Oostende": {
-      "file": "oostende_belgium.json",
-      "days": 365
-    },
-    "Odense Kommune": {
-      "file": "odense_kommune_denmark.json",
-      "days": 365
-    },
-    "Aadma": {
-      "file": "aadma_estonia.json",
-      "days": 365
-    },
-    "Aaviku": {
-      "file": "aaviku_estonia.json",
-      "days": 365
-    },
-    "Abborrhult": {
-      "file": "abborrhult_sweden.json",
-      "days": 365
-    },
-    "Almere Stad": {
-      "file": "almere_stad_netherlands.json",
-      "days": 365
-    },
-    "Afangagil": {
-      "file": "afangagil_iceland.json",
-      "days": 365
-    },
-    "Riga Central": {
-      "file": "riga_central_latvia.json",
-      "days": 365
-    },
-    "Aalbeke": {
-      "file": "aalbeke_belgium.json",
-      "days": 365
-    },
-    "Rennes": {
-      "file": "rennes_france.json",
-      "days": 365
-    },
-    "Afrettara": {
-      "file": "afrettara_iceland.json",
-      "days": 365
-    },
-    "Tromso": {
-      "file": "tromso_norway.json",
-      "days": 365
-    },
-    "Abbey River": {
-      "file": "abbey_river_ireland.json",
-      "days": 365
-    },
-    "Aarschot": {
-      "file": "aarschot_belgium.json",
-      "days": 365
-    },
-    "Fredrikstad": {
-      "file": "fredrikstad_norway.json",
-      "days": 365
-    },
-    "Helmond": {
-      "file": "helmond_netherlands.json",
-      "days": 365
-    },
-    "Aberstatt": {
-      "file": "aberstatt_austria.json",
-      "days": 365
-    },
-    "Abjaku": {
-      "file": "abjaku_estonia.json",
-      "days": 365
-    },
-    "Malmo Central": {
-      "file": "malmo_central_sweden.json",
-      "days": 365
-    },
-    "Karhula": {
-      "file": "karhula_finland.json",
-      "days": 365
-    },
-    "Aasa": {
-      "file": "aasa_estonia.json",
-      "days": 365
-    },
-    "Vitebsk": {
-      "file": "vitebsk_belarus.json",
-      "days": 365
-    },
-    "Aber Geirch": {
-      "file": "aber_geirch_uk.json",
-      "days": 365
-    },
-    "Galway Bay": {
-      "file": "galway_bay_ireland.json",
-      "days": 365
-    },
-    "Aalbaek Bugt": {
-      "file": "aalbaek_bugt_denmark.json",
-      "days": 365
-    },
-    "Ivye": {
-      "file": "ivye_belarus.json",
-      "days": 365
-    },
-    "Utrecht": {
-      "file": "utrecht_netherlands.json",
-      "days": 365
-    },
-    "S Gravenwezel": {
-      "file": "s_gravenwezel_belgium.json",
-      "days": 365
-    },
-    "Abagalakh": {
-      "file": "abagalakh_russia.json",
-      "days": 365
-    },
-    "Adamczycha": {
-      "file": "adamczycha_poland.json",
-      "days": 365
-    },
-    "Rigas Udenskratuve": {
-      "file": "rigas_udenskratuve_latvia.json",
-      "days": 365
-    },
-    "T Zand": {
-      "file": "t_zand_netherlands.json",
-      "days": 365
-    },
-    "Aalborg": {
-      "file": "aalborg_denmark.json",
-      "days": 365
-    },
-    "Abeli": {
-      "file": "abeli_latvia.json",
-      "days": 365
-    },
-    "Adamowka": {
-      "file": "adamowka_poland.json",
-      "days": 365
-    },
-    "Abaujlak": {
-      "file": "abaujlak_hungary.json",
-      "days": 365
-    },
-    "Drammen": {
-      "file": "drammen_norway.json",
-      "days": 365
-    },
-    "Vancouver": {
-      "file": "vancouver_canada.json",
-      "days": 365
-    },
-    "Courbevoie": {
-      "file": "courbevoie_france.json",
-      "days": 365
-    },
-    "Abaujszanto Vasutallomas": {
-      "file": "abaujszanto_vasutallomas_hungary.json",
-      "days": 365
-    },
-    "Preston": {
-      "file": "preston_uk.json",
-      "days": 365
-    },
-    "Halifax": {
-      "file": "halifax_canada.json",
-      "days": 365
-    },
-    "London": {
-      "file": "london_uk.json",
-      "days": 365
-    },
-    "Tra Li": {
-      "file": "tra_li_ireland.json",
-      "days": 365
-    },
-    "Amsterdam Centraal Station": {
-      "file": "amsterdam_centraal_station_netherlands.json",
-      "days": 365
-    },
-    "Abza": {
-      "file": "abza_latvia.json",
-      "days": 365
-    },
-    "Abbeyshrule": {
-      "file": "abbeyshrule_ireland.json",
-      "days": 365
-    },
-    "Omsk": {
-      "file": "omsk_russia.json",
-      "days": 365
-    },
-    "Aaltola": {
-      "file": "aaltola_finland.json",
-      "days": 365
-    },
-    "Adaminowo": {
-      "file": "adaminowo_poland.json",
-      "days": 365
-    },
-    "Farciennes": {
-      "file": "farciennes_belgium.json",
-      "days": 365
-    },
-    "Abbots Bromley": {
-      "file": "abbots_bromley_uk.json",
-      "days": 365
-    },
-    "Skive Kommune": {
-      "file": "skive_kommune_denmark.json",
-      "days": 365
-    },
-    "Abdie Church": {
-      "file": "abdie_church_uk.json",
-      "days": 365
-    },
-    "Portsmouth": {
-      "file": "portsmouth_uk.json",
-      "days": 365
-    },
-    "Wels": {
-      "file": "wels_austria.json",
-      "days": 365
-    },
-    "Berlin": {
-      "file": "berlin_germany.json",
-      "days": 365
-    },
-    "Abbert": {
-      "file": "abbert_ireland.json",
-      "days": 365
-    },
-    "Akulinki": {
-      "file": "akulinki_belarus.json",
-      "days": 365
-    },
-    "Abbasen": {
-      "file": "abbasen_sweden.json",
-      "days": 365
-    },
-    "Ventspils": {
-      "file": "ventspils_latvia.json",
-      "days": 365
-    },
-    "Achbach": {
-      "file": "achbach_austria.json",
-      "days": 365
-    },
-    "Kiev Oblast": {
-      "file": "kiev_oblast_ukraine.json",
-      "days": 365
-    },
-    "Augsburg": {
-      "file": "augsburg_germany.json",
-      "days": 365
-    },
-    "Holstebro Kommune": {
-      "file": "holstebro_kommune_denmark.json",
-      "days": 365
-    },
-    "Oral": {
-      "file": "oral_kazakhstan.json",
-      "days": 365
-    },
-    "Abaschin": {
-      "file": "abaschin_czech-republic.json",
-      "days": 365
-    },
-    "Abula": {
-      "file": "abula_latvia.json",
-      "days": 365
-    },
-    "Abbeymahon": {
-      "file": "abbeymahon_ireland.json",
-      "days": 365
-    },
-    "Ababurovo": {
-      "file": "ababurovo_russia.json",
-      "days": 365
-    },
-    "Copenhagen": {
-      "file": "copenhagen_denmark.json",
-      "days": 365
-    },
-    "Aabybro": {
-      "file": "aabybro_denmark.json",
-      "days": 365
-    },
-    "Linzerod": {
-      "file": "linzerod_austria.json",
-      "days": 365
-    },
-    "Adelsdorf": {
-      "file": "adelsdorf_czech-republic.json",
-      "days": 365
-    },
-    "Pavlodar": {
-      "file": "pavlodar_kazakhstan.json",
-      "days": 365
-    },
-    "Adama": {
-      "file": "adama_poland.json",
-      "days": 365
-    },
-    "Ostrava": {
-      "file": "ostrava_czech-republic.json",
-      "days": 365
-    },
-    "Aakre": {
-      "file": "aakre_estonia.json",
-      "days": 365
-    },
-    "Berlin Mitte": {
-      "file": "berlin_mitte_germany.json",
-      "days": 365
-    },
-    "Calgary": {
-      "file": "calgary_canada.json",
-      "days": 365
-    },
-    "Murmansk": {
-      "file": "murmansk_russia.json",
-      "days": 365
-    },
-    "Riga West": {
-      "file": "riga_west_latvia.json",
-      "days": 365
-    },
-    "Gliwice": {
-      "file": "gliwice_poland.json",
-      "days": 365
-    },
-    "Aba": {
-      "file": "aba_russia.json",
-      "days": 365
-    },
-    "A Clapette": {
-      "file": "a_clapette_belgium.json",
-      "days": 365
-    },
-    "Acme": {
-      "file": "acme_canada.json",
-      "days": 365
-    },
-    "Aber": {
-      "file": "aber_uk.json",
-      "days": 365
-    },
-    "Aalbach": {
-      "file": "aalbach_poland.json",
-      "days": 365
-    },
-    "Slough": {
-      "file": "slough_uk.json",
-      "days": 365
-    },
-    "Aber Nant": {
-      "file": "aber_nant_uk.json",
-      "days": 365
-    },
-    "Voronezh": {
-      "file": "voronezh_russia.json",
-      "days": 365
-    },
-    "Larvik": {
-      "file": "larvik_norway.json",
-      "days": 365
-    },
-    "S Gravendeel": {
-      "file": "s_gravendeel_netherlands.json",
-      "days": 365
-    },
-    "Aguathuna": {
-      "file": "aguathuna_canada.json",
-      "days": 365
-    },
-    "Heerlen": {
-      "file": "heerlen_netherlands.json",
-      "days": 365
-    },
-    "Aar Bach": {
-      "file": "aar_bach_germany.json",
-      "days": 365
-    },
-    "Butgenbach": {
-      "file": "butgenbach_belgium.json",
-      "days": 365
-    },
-    "Oulu": {
-      "file": "oulu_finland.json",
-      "days": 365
-    },
-    "Kolding Kommune": {
-      "file": "kolding_kommune_denmark.json",
-      "days": 365
-    },
-    "Goteborg": {
-      "file": "goteborg_sweden.json",
-      "days": 365
-    },
-    "Aubervilliers": {
-      "file": "aubervilliers_france.json",
-      "days": 365
-    },
-    "Aantjebitt": {
-      "file": "aantjebitt_germany.json",
-      "days": 365
-    },
-    "Aberaman": {
-      "file": "aberaman_uk.json",
-      "days": 365
-    },
-    "Orebro": {
-      "file": "orebro_sweden.json",
-      "days": 365
-    },
-    "Airdrie": {
-      "file": "airdrie_canada.json",
-      "days": 365
-    },
-    "Aclare": {
-      "file": "aclare_ireland.json",
-      "days": 365
-    },
-    "Plzen Sever": {
-      "file": "plzen_sever_czech-republic.json",
-      "days": 365
-    },
-    "Abbantorp": {
-      "file": "abbantorp_sweden.json",
-      "days": 365
-    },
-    "Adamchuki": {
-      "file": "adamchuki_ukraine.json",
-      "days": 365
-    },
-    "Achill": {
-      "file": "achill_ireland.json",
-      "days": 365
-    },
-    "Albrechtovice": {
-      "file": "albrechtovice_czech-republic.json",
-      "days": 365
-    },
-    "Aalbek": {
-      "file": "aalbek_germany.json",
-      "days": 365
-    },
-    "Novogrudok": {
-      "file": "novogrudok_belarus.json",
-      "days": 365
-    },
-    "Odense": {
-      "file": "odense_denmark.json",
-      "days": 365
-    },
-    "Abbess Roding": {
-      "file": "abbess_roding_uk.json",
-      "days": 365
-    },
-    "Linz Stadt": {
-      "file": "linz_stadt_austria.json",
-      "days": 365
-    },
-    "Abetzberg": {
-      "file": "abetzberg_austria.json",
-      "days": 365
-    },
-    "A Bhrideanach": {
-      "file": "a_bhrideanach_uk.json",
-      "days": 365
-    },
-    "S Heer Abtskerke": {
-      "file": "s_heer_abtskerke_netherlands.json",
-      "days": 365
-    },
-    "Akulivik": {
-      "file": "akulivik_canada.json",
-      "days": 365
-    },
-    "Aleksandrov": {
-      "file": "aleksandrov_belarus.json",
-      "days": 365
-    },
-    "Aarbach": {
-      "file": "aarbach_germany.json",
-      "days": 365
-    },
-    "Aboli": {
-      "file": "aboli_latvia.json",
-      "days": 365
-    },
-    "A Mhoine": {
-      "file": "a_mhoine_uk.json",
-      "days": 365
-    },
-    "Winnipeg": {
-      "file": "winnipeg_canada.json",
-      "days": 365
-    },
-    "Ab Kettleby": {
-      "file": "ab_kettleby_uk.json",
-      "days": 365
-    },
-    "Abbemala": {
-      "file": "abbemala_sweden.json",
-      "days": 365
-    },
-    "Ostrava Region": {
-      "file": "ostrava_region_czech-republic.json",
-      "days": 365
-    },
-    "T Veld": {
-      "file": "t_veld_netherlands.json",
-      "days": 365
-    },
-    "Aglaia": {
-      "file": "aglaia_czech-republic.json",
-      "days": 365
-    },
-    "Adamow Nowy": {
-      "file": "adamow_nowy_poland.json",
-      "days": 365
-    },
-    "Abbeydorney": {
-      "file": "abbeydorney_ireland.json",
-      "days": 365
-    },
-    "Aalter": {
-      "file": "aalter_belgium.json",
-      "days": 365
-    },
-    "Oxford": {
-      "file": "oxford_uk.json",
-      "days": 365
-    },
-    "Grodno": {
-      "file": "grodno_belarus.json",
-      "days": 365
-    },
-    "Abbeville House": {
-      "file": "abbeville_house_ireland.json",
-      "days": 365
-    },
-    "Adara": {
-      "file": "adara_estonia.json",
-      "days": 365
-    },
-    "Vantaa": {
-      "file": "vantaa_finland.json",
-      "days": 365
-    },
-    "Bergen": {
-      "file": "bergen_norway.json",
-      "days": 365
-    },
-    "Abod": {
-      "file": "abod_hungary.json",
-      "days": 365
-    },
-    "Abagaytuy": {
-      "file": "abagaytuy_russia.json",
-      "days": 365
-    },
-    "Adamow": {
-      "file": "adamow_poland.json",
-      "days": 365
-    },
-    "Aarni": {
-      "file": "aarni_finland.json",
-      "days": 365
-    },
-    "Wattsfell": {
-      "file": "wattsfell_iceland.json",
-      "days": 365
-    },
-    "Brussels Capital Region": {
-      "file": "brussels_capital_region_belgium.json",
-      "days": 365
-    },
-    "Dusseldorf": {
-      "file": "dusseldorf_germany.json",
-      "days": 365
-    },
-    "Abbeville La Riviere": {
-      "file": "abbeville_la_riviere_france.json",
-      "days": 365
-    },
-    "Aavakaiju": {
-      "file": "aavakaiju_sweden.json",
-      "days": 365
-    },
-    "Dublin Pike": {
-      "file": "dublin_pike_ireland.json",
-      "days": 365
-    },
-    "Aaletajarvi": {
-      "file": "aaletajarvi_finland.json",
-      "days": 365
-    },
-    "Hradec Kralove": {
-      "file": "hradec_kralove_czech-republic.json",
-      "days": 365
-    },
-    "Dublin Harbour": {
-      "file": "dublin_harbour_ireland.json",
-      "days": 365
-    },
-    "Dublin": {
-      "file": "dublin_ireland.json",
-      "days": 365
-    },
-    "Vantaankoski": {
-      "file": "vantaankoski_finland.json",
-      "days": 365
-    },
-    "Adalvik": {
-      "file": "adalvik_iceland.json",
-      "days": 365
-    },
-    "Abbots Lench": {
-      "file": "abbots_lench_uk.json",
-      "days": 365
-    },
-    "Prague Vinohrady": {
-      "file": "prague_vinohrady_czech-republic.json",
-      "days": 365
-    },
-    "Aasumetsa": {
-      "file": "aasumetsa_estonia.json",
-      "days": 365
-    },
-    "Mons": {
-      "file": "mons_belgium.json",
-      "days": 365
-    },
-    "Brugge": {
-      "file": "brugge_belgium.json",
-      "days": 365
-    },
-    "Abborrberg": {
-      "file": "abborrberg_sweden.json",
-      "days": 365
-    },
-    "Aasuvalja": {
-      "file": "aasuvalja_estonia.json",
-      "days": 365
-    },
-    "Aadorp": {
-      "file": "aadorp_netherlands.json",
-      "days": 365
-    },
-    "Ekenas": {
-      "file": "ekenas_finland.json",
-      "days": 365
-    },
-    "Aardappelhoek": {
-      "file": "aardappelhoek_belgium.json",
-      "days": 365
-    },
-    "Kielce": {
-      "file": "kielce_poland.json",
-      "days": 365
-    },
-    "Achau": {
-      "file": "achau_austria.json",
-      "days": 365
-    },
-    "Air Ronge": {
-      "file": "air_ronge_canada.json",
-      "days": 365
-    },
-    "Bialystok": {
-      "file": "bialystok_poland.json",
-      "days": 365
-    },
-    "Aalistunturi": {
-      "file": "aalistunturi_finland.json",
-      "days": 365
-    },
-    "Linkopings Kommun": {
-      "file": "linkopings_kommun_sweden.json",
-      "days": 365
-    },
-    "Adolfov": {
-      "file": "adolfov_czech-republic.json",
-      "days": 365
-    },
-    "Wienersdorf": {
-      "file": "wienersdorf_austria.json",
-      "days": 365
-    },
-    "Abrupi": {
-      "file": "abrupi_latvia.json",
-      "days": 365
-    },
-    "Brno": {
-      "file": "brno_czech-republic.json",
-      "days": 365
-    },
-    "Lille": {
-      "file": "lille_france.json",
-      "days": 365
-    },
-    "Abuls": {
-      "file": "abuls_latvia.json",
-      "days": 365
-    },
-    "Aachen West": {
-      "file": "aachen_west_germany.json",
-      "days": 365
-    },
-    "Glasgow": {
-      "file": "glasgow_uk.json",
-      "days": 365
-    },
-    "Munich": {
-      "file": "munich_germany.json",
-      "days": 365
-    },
-    "Vinnitsa": {
-      "file": "vinnitsa_ukraine.json",
-      "days": 365
-    },
-    "Achrymowce": {
-      "file": "achrymowce_poland.json",
-      "days": 365
-    },
-    "Aabjerg": {
-      "file": "aabjerg_denmark.json",
-      "days": 365
-    },
-    "Jyvaskyla": {
-      "file": "jyvaskyla_finland.json",
-      "days": 365
-    },
-    "Abro": {
-      "file": "abro_estonia.json",
-      "days": 365
-    },
-    "Rovaniemi": {
-      "file": "rovaniemi_finland.json",
-      "days": 365
-    },
-    "Minneapolis": {
-      "file": "minneapolis_usa.json",
-      "days": 365
-    },
-    "Viborg": {
-      "file": "viborg_denmark.json",
-      "days": 365
-    },
-    "Aleksandrina": {
-      "file": "aleksandrina_belarus.json",
-      "days": 365
-    },
-    "Paris": {
-      "file": "paris_france.json",
-      "days": 365
-    },
-    "Abborrnas": {
-      "file": "abborrnas_sweden.json",
-      "days": 365
-    },
-    "Aagaard": {
-      "file": "aagaard_denmark.json",
-      "days": 365
-    },
-    "Saarbrucken": {
-      "file": "saarbrucken_germany.json",
-      "days": 365
-    },
-    "Aaltokangas": {
-      "file": "aaltokangas_finland.json",
-      "days": 365
-    },
-    "Cork": {
-      "file": "cork_ireland.json",
-      "days": 365
-    },
-    "Abelites": {
-      "file": "abelites_latvia.json",
-      "days": 365
-    },
-    "Aalborg Bugt": {
-      "file": "aalborg_bugt_denmark.json",
-      "days": 365
-    },
-    "Port Laoise": {
-      "file": "port_laoise_ireland.json",
-      "days": 365
-    },
-    "Aal Bach": {
-      "file": "aal_bach_germany.json",
-      "days": 365
-    },
-    "A Mharconaich": {
-      "file": "a_mharconaich_uk.json",
-      "days": 365
-    },
-    "Aalkasten": {
-      "file": "aalkasten_germany.json",
-      "days": 365
-    },
-    "S Gravenzande": {
-      "file": "s_gravenzande_netherlands.json",
-      "days": 365
-    },
-    "Limerick Canal": {
-      "file": "limerick_canal_ireland.json",
-      "days": 365
-    },
-    "Virginia": {
-      "file": "virginia_ireland.json",
-      "days": 365
-    },
-    "Bydgoszcz": {
-      "file": "bydgoszcz_poland.json",
-      "days": 365
-    },
-    "Adamivka": {
-      "file": "adamivka_ukraine.json",
-      "days": 365
-    },
-    "Dublin Castle": {
-      "file": "dublin_castle_ireland.json",
+    "Abancourt": {
+      "file": "abancourt_france.json",
       "days": 365
     },
     "Abolini": {
       "file": "abolini_latvia.json",
       "days": 365
     },
-    "Abagur": {
-      "file": "abagur_russia.json",
+    "Aakenusjoki": {
+      "file": "aakenusjoki_finland.json",
       "days": 365
     },
-    "Sumy": {
-      "file": "sumy_ukraine.json",
+    "Ventspils": {
+      "file": "ventspils_latvia.json",
       "days": 365
     },
-    "Nanterre": {
-      "file": "nanterre_france.json",
+    "Aulnay Sous Bois": {
+      "file": "aulnay_sous_bois_france.json",
       "days": 365
     },
-    "Darmstadt": {
-      "file": "darmstadt_germany.json",
-      "days": 365
-    },
-    "Aaljoki": {
-      "file": "aaljoki_finland.json",
-      "days": 365
-    },
-    "Adancata": {
-      "file": "adancata_ukraine.json",
-      "days": 365
-    },
-    "Fairbanks": {
-      "file": "fairbanks_usa.json",
-      "days": 365
-    },
-    "Adamowizna": {
-      "file": "adamowizna_poland.json",
-      "days": 365
-    },
-    "Aber Bran": {
-      "file": "aber_bran_uk.json",
-      "days": 365
-    },
-    "Aal Plantage": {
-      "file": "aal_plantage_denmark.json",
-      "days": 365
-    },
-    "Aboltini": {
-      "file": "aboltini_latvia.json",
-      "days": 365
-    },
-    "Roskilde": {
-      "file": "roskilde_denmark.json",
-      "days": 365
-    },
-    "Aervik": {
-      "file": "aervik_iceland.json",
-      "days": 365
-    },
-    "Acheson": {
-      "file": "acheson_canada.json",
-      "days": 365
-    },
-    "Eskilstuna": {
-      "file": "eskilstuna_sweden.json",
-      "days": 365
-    },
-    "Abee": {
-      "file": "abee_canada.json",
-      "days": 365
-    },
-    "Quebec City": {
-      "file": "quebec_city_canada.json",
-      "days": 365
-    },
-    "Aakilde": {
-      "file": "aakilde_denmark.json",
-      "days": 365
-    },
-    "Adrov": {
-      "file": "adrov_belarus.json",
-      "days": 365
-    },
-    "Aalburg": {
-      "file": "aalburg_netherlands.json",
-      "days": 365
-    },
-    "Abbotsbury": {
-      "file": "abbotsbury_uk.json",
-      "days": 365
-    },
-    "Aartselaar": {
-      "file": "aartselaar_belgium.json",
-      "days": 365
-    },
-    "Minsk Oblast": {
-      "file": "minsk_oblast_belarus.json",
-      "days": 365
-    },
-    "Montreal": {
-      "file": "montreal_canada.json",
-      "days": 365
-    },
-    "S Graveland": {
-      "file": "s_graveland_netherlands.json",
-      "days": 365
-    },
-    "Bolton": {
-      "file": "bolton_uk.json",
-      "days": 365
-    },
-    "Adare": {
-      "file": "adare_ireland.json",
-      "days": 365
-    },
-    "Garges Les Gonesse": {
-      "file": "garges_les_gonesse_france.json",
-      "days": 365
-    },
-    "Surrey": {
-      "file": "surrey_canada.json",
-      "days": 365
-    },
-    "Abbotsinch": {
-      "file": "abbotsinch_uk.json",
-      "days": 365
-    },
-    "Abbots Cliff": {
-      "file": "abbots_cliff_uk.json",
-      "days": 365
-    },
-    "Aar": {
-      "file": "aar_germany.json",
-      "days": 365
-    },
-    "Parnu": {
-      "file": "parnu_estonia.json",
-      "days": 365
-    },
-    "Aardla Jarv": {
-      "file": "aardla_jarv_estonia.json",
-      "days": 365
-    },
-    "Adamova Hora": {
-      "file": "adamova_hora_czech-republic.json",
-      "days": 365
-    },
-    "Aetna": {
-      "file": "aetna_canada.json",
-      "days": 365
-    },
-    "Aard": {
-      "file": "aard_belgium.json",
-      "days": 365
-    },
-    "Adamkowo": {
-      "file": "adamkowo_poland.json",
-      "days": 365
-    },
-    "Edmonton": {
-      "file": "edmonton_canada.json",
-      "days": 365
-    },
-    "Abborrberget": {
-      "file": "abborrberget_sweden.json",
-      "days": 365
-    },
-    "Acres Lough": {
-      "file": "acres_lough_ireland.json",
-      "days": 365
-    },
-    "Aakirkeby": {
-      "file": "aakirkeby_denmark.json",
-      "days": 365
-    },
-    "Cologne": {
-      "file": "cologne_germany.json",
-      "days": 365
-    },
-    "Aalkorb": {
-      "file": "aalkorb_germany.json",
-      "days": 365
-    },
-    "Aanaar": {
-      "file": "aanaar_finland.json",
-      "days": 365
-    },
-    "Mannheim": {
-      "file": "mannheim_germany.json",
-      "days": 365
-    },
-    "Aardla": {
-      "file": "aardla_estonia.json",
-      "days": 365
-    },
-    "Aasbruch": {
-      "file": "aasbruch_germany.json",
-      "days": 365
-    },
-    "Adzhamka": {
-      "file": "adzhamka_ukraine.json",
-      "days": 365
-    },
-    "Abbey Dore": {
-      "file": "abbey_dore_uk.json",
-      "days": 365
-    },
-    "Jonkoping": {
-      "file": "jonkoping_sweden.json",
-      "days": 365
-    },
-    "Abakanovo": {
-      "file": "abakanovo_russia.json",
-      "days": 365
-    },
-    "Selfoss": {
-      "file": "selfoss_iceland.json",
-      "days": 365
-    },
-    "Lappeenranta": {
-      "file": "lappeenranta_finland.json",
-      "days": 365
-    },
-    "Melbu": {
-      "file": "melbu_norway.json",
-      "days": 365
-    },
-    "Poznan": {
-      "file": "poznan_poland.json",
-      "days": 365
-    },
-    "Amsterdam": {
-      "file": "amsterdam_netherlands.json",
-      "days": 365
-    },
-    "Aasu": {
-      "file": "aasu_estonia.json",
-      "days": 365
-    },
-    "Abbotskerswell": {
-      "file": "abbotskerswell_uk.json",
-      "days": 365
-    },
-    "Albrechticky": {
-      "file": "albrechticky_czech-republic.json",
-      "days": 365
-    },
-    "Rotterdam Zuid": {
-      "file": "rotterdam_zuid_netherlands.json",
-      "days": 365
-    },
-    "Abbeville Saint Lucien": {
-      "file": "abbeville_saint_lucien_france.json",
-      "days": 365
-    },
-    "Boras": {
-      "file": "boras_sweden.json",
-      "days": 365
-    },
-    "Frankfurt Am Main": {
-      "file": "frankfurt_am_main_germany.json",
-      "days": 365
-    },
-    "Den Haag": {
-      "file": "den_haag_netherlands.json",
-      "days": 365
-    },
-    "Abbekas": {
-      "file": "abbekas_sweden.json",
-      "days": 365
-    },
-    "Abborrback": {
-      "file": "abborrback_sweden.json",
-      "days": 365
-    },
-    "Albrechtice Nad Vltavou": {
-      "file": "albrechtice_nad_vltavou_czech-republic.json",
-      "days": 365
-    },
-    "Aich": {
-      "file": "aich_czech-republic.json",
-      "days": 365
-    },
-    "Newcastle Upon Tyne": {
-      "file": "newcastle_upon_tyne_uk.json",
-      "days": 365
-    },
-    "Aabachtalsperre": {
-      "file": "aabachtalsperre_germany.json",
-      "days": 365
-    },
-    "Abaujszolnok": {
-      "file": "abaujszolnok_hungary.json",
-      "days": 365
-    },
-    "Aakenusjarvi": {
-      "file": "aakenusjarvi_finland.json",
-      "days": 365
-    },
-    "Eskilstuna Kommun": {
-      "file": "eskilstuna_kommun_sweden.json",
-      "days": 365
-    },
-    "Vejle": {
-      "file": "vejle_denmark.json",
-      "days": 365
-    },
-    "Aachen": {
-      "file": "aachen_germany.json",
-      "days": 365
-    },
-    "Abaujker Vasuti Megallohely": {
-      "file": "abaujker_vasuti_megallohely_hungary.json",
-      "days": 365
-    },
-    "Novosibirsk": {
-      "file": "novosibirsk_russia.json",
-      "days": 365
-    },
-    "Aaldonk": {
-      "file": "aaldonk_netherlands.json",
-      "days": 365
-    },
-    "Aasbuttel": {
-      "file": "aasbuttel_germany.json",
-      "days": 365
-    },
-    "Alberice": {
-      "file": "alberice_czech-republic.json",
-      "days": 365
-    },
-    "Tallinna Laht": {
-      "file": "tallinna_laht_estonia.json",
-      "days": 365
-    },
-    "Umea": {
-      "file": "umea_sweden.json",
-      "days": 365
-    },
-    "Albrechtsdorf": {
-      "file": "albrechtsdorf_czech-republic.json",
-      "days": 365
-    },
-    "A Chuli": {
-      "file": "a_chuli_uk.json",
-      "days": 365
-    },
-    "Abbaye Sous Plancy": {
-      "file": "abbaye_sous_plancy_france.json",
-      "days": 365
-    },
-    "Aakaer": {
-      "file": "aakaer_denmark.json",
-      "days": 365
-    },
-    "Liepaja": {
-      "file": "liepaja_latvia.json",
-      "days": 365
-    },
-    "Abborgrundet": {
-      "file": "abborgrundet_sweden.json",
-      "days": 365
-    },
-    "Essa": {
-      "file": "essa_belarus.json",
-      "days": 365
-    },
-    "Adamczowice": {
-      "file": "adamczowice_poland.json",
-      "days": 365
-    },
-    "Poltava": {
-      "file": "poltava_ukraine.json",
-      "days": 365
-    },
-    "Adamowo": {
-      "file": "adamowo_poland.json",
-      "days": 365
-    },
-    "Aadland": {
-      "file": "aadland_norway.json",
-      "days": 365
-    },
-    "Abbotrule": {
-      "file": "abbotrule_uk.json",
-      "days": 365
-    },
-    "Aatoila": {
-      "file": "aatoila_finland.json",
-      "days": 365
-    },
-    "Abbarp": {
-      "file": "abbarp_sweden.json",
-      "days": 365
-    },
-    "Bristol": {
-      "file": "bristol_uk.json",
-      "days": 365
-    },
-    "Karlstad": {
-      "file": "karlstad_sweden.json",
-      "days": 365
-    },
-    "Aapajoki": {
-      "file": "aapajoki_finland.json",
-      "days": 365
-    },
-    "Ahalnica Wielka": {
-      "file": "ahalnica_wielka_belarus.json",
-      "days": 365
-    },
-    "Aachen Merzbruck": {
-      "file": "aachen_merzbruck_germany.json",
-      "days": 365
-    },
-    "Aaspere": {
-      "file": "aaspere_estonia.json",
-      "days": 365
-    },
-    "Abbert River": {
-      "file": "abbert_river_ireland.json",
-      "days": 365
-    },
-    "Aadal": {
-      "file": "aadal_denmark.json",
-      "days": 365
-    },
-    "Dublin Bar": {
-      "file": "dublin_bar_ireland.json",
-      "days": 365
-    },
-    "Ainsworth Hot Springs": {
-      "file": "ainsworth_hot_springs_canada.json",
-      "days": 365
-    },
-    "Accrour Bridge": {
-      "file": "accrour_bridge_ireland.json",
-      "days": 365
-    },
-    "Abbey Town": {
-      "file": "abbey_town_uk.json",
-      "days": 365
-    },
-    "Abschlag": {
-      "file": "abschlag_austria.json",
-      "days": 365
-    },
-    "Ababkovo": {
-      "file": "ababkovo_russia.json",
-      "days": 365
-    },
-    "Agassiz": {
-      "file": "agassiz_canada.json",
-      "days": 365
-    },
-    "Vilnius": {
-      "file": "vilnius_lithuania.json",
-      "days": 365
-    },
-    "Abberton": {
-      "file": "abberton_uk.json",
-      "days": 365
-    },
-    "Abakumy": {
-      "file": "abakumy_belarus.json",
-      "days": 365
-    },
-    "Aalen": {
-      "file": "aalen_germany.json",
-      "days": 365
-    },
-    "Kristiansand Sor": {
-      "file": "kristiansand_sor_norway.json",
-      "days": 365
-    },
-    "Aarholma": {
-      "file": "aarholma_finland.json",
-      "days": 365
-    },
-    "Adersbach": {
-      "file": "adersbach_czech-republic.json",
-      "days": 365
-    },
-    "Abborraslatt": {
-      "file": "abborraslatt_sweden.json",
-      "days": 365
-    },
-    "Huddersfield": {
-      "file": "huddersfield_uk.json",
-      "days": 365
-    },
-    "Abberyd": {
-      "file": "abberyd_sweden.json",
-      "days": 365
-    },
-    "Abissaare": {
-      "file": "abissaare_estonia.json",
-      "days": 365
-    },
-    "Adamowice": {
-      "file": "adamowice_poland.json",
-      "days": 365
-    },
-    "Gdansk": {
-      "file": "gdansk_poland.json",
-      "days": 365
-    },
-    "T Zandt": {
-      "file": "t_zandt_netherlands.json",
-      "days": 365
-    },
-    "Southampton": {
-      "file": "southampton_uk.json",
-      "days": 365
-    },
-    "Abernethy": {
-      "file": "abernethy_canada.json",
-      "days": 365
-    },
-    "Namur": {
-      "file": "namur_belgium.json",
-      "days": 365
-    },
-    "Aden": {
-      "file": "aden_canada.json",
-      "days": 365
-    },
-    "Aalden": {
-      "file": "aalden_netherlands.json",
-      "days": 365
-    },
-    "Abbots Langley": {
-      "file": "abbots_langley_uk.json",
-      "days": 365
-    },
-    "Praha Vychod": {
-      "file": "praha_vychod_czech-republic.json",
-      "days": 365
-    },
-    "Aasukalda": {
-      "file": "aasukalda_estonia.json",
-      "days": 365
-    },
-    "Rouen": {
-      "file": "rouen_france.json",
-      "days": 365
-    },
-    "Aaslaluoto": {
-      "file": "aaslaluoto_finland.json",
-      "days": 365
-    },
-    "Abulas": {
-      "file": "abulas_latvia.json",
-      "days": 365
-    },
-    "Ab Lench": {
-      "file": "ab_lench_uk.json",
-      "days": 365
-    },
-    "Utrecht Centraal Station": {
-      "file": "utrecht_centraal_station_netherlands.json",
-      "days": 365
-    },
-    "Detroit": {
-      "file": "detroit_usa.json",
-      "days": 365
-    },
-    "Ahorn": {
-      "file": "ahorn_czech-republic.json",
-      "days": 365
-    },
-    "Saint Ouen": {
-      "file": "saint_ouen_france.json",
-      "days": 365
-    },
-    "Aandu": {
-      "file": "aandu_estonia.json",
-      "days": 365
-    },
-    "Akranes": {
-      "file": "akranes_iceland.json",
-      "days": 365
-    },
-    "Tartussaare Raba": {
-      "file": "tartussaare_raba_estonia.json",
-      "days": 365
-    },
-    "Sheffield": {
-      "file": "sheffield_uk.json",
-      "days": 365
-    },
-    "Olsztyn": {
-      "file": "olsztyn_poland.json",
-      "days": 365
-    },
-    "Aboldari": {
-      "file": "aboldari_latvia.json",
-      "days": 365
-    },
-    "Brno Kralovo": {
-      "file": "brno_kralovo_czech-republic.json",
-      "days": 365
-    },
-    "Adamowa Gora": {
-      "file": "adamowa_gora_poland.json",
-      "days": 365
-    },
-    "Aarbergen": {
-      "file": "aarbergen_germany.json",
-      "days": 365
-    },
-    "Abermani": {
-      "file": "abermani_latvia.json",
-      "days": 365
-    },
-    "Regina": {
-      "file": "regina_canada.json",
-      "days": 365
-    },
-    "Mouscron": {
-      "file": "mouscron_belgium.json",
-      "days": 365
-    },
-    "Abborrbergsmossen": {
-      "file": "abborrbergsmossen_sweden.json",
-      "days": 365
-    },
-    "Alba": {
-      "file": "alba_belarus.json",
-      "days": 365
-    },
-    "Aaen": {
-      "file": "aaen_norway.json",
-      "days": 365
-    },
-    "Plzensky Kraj": {
-      "file": "plzensky_kraj_czech-republic.json",
-      "days": 365
-    },
-    "Pantin": {
-      "file": "pantin_france.json",
-      "days": 365
-    },
-    "Abbotsley": {
-      "file": "abbotsley_uk.json",
-      "days": 365
-    },
-    "Abaujdevecser": {
-      "file": "abaujdevecser_hungary.json",
-      "days": 365
-    },
-    "Achill Head": {
-      "file": "achill_head_ireland.json",
-      "days": 365
-    },
-    "Aarhus": {
-      "file": "aarhus_denmark.json",
-      "days": 365
-    },
-    "Invercargill": {
-      "file": "invercargill_new-zealand.json",
-      "days": 365
-    },
-    "Ala": {
-      "file": "ala_belarus.json",
-      "days": 365
-    },
-    "Aabauerschaft": {
-      "file": "aabauerschaft_germany.json",
-      "days": 365
-    },
-    "Kirovograd": {
-      "file": "kirovograd_ukraine.json",
-      "days": 365
-    },
-    "Turnhout": {
-      "file": "turnhout_belgium.json",
-      "days": 365
-    },
-    "Riga": {
-      "file": "riga_latvia.json",
-      "days": 365
-    },
-    "Aagtdorp": {
-      "file": "aagtdorp_netherlands.json",
-      "days": 365
-    },
-    "Aa Hojrup": {
-      "file": "aa_hojrup_denmark.json",
-      "days": 365
-    },
-    "Abbeville": {
-      "file": "abbeville_france.json",
-      "days": 365
-    },
-    "Abbey Hill": {
-      "file": "abbey_hill_ireland.json",
-      "days": 365
-    },
-    "Absberg": {
-      "file": "absberg_austria.json",
-      "days": 365
-    },
-    "Saint Denis": {
-      "file": "saint_denis_france.json",
-      "days": 365
-    },
-    "Ternopil": {
-      "file": "ternopil_ukraine.json",
-      "days": 365
-    },
-    "Abbey Wood": {
-      "file": "abbey_wood_uk.json",
-      "days": 365
-    },
-    "Aavajoki": {
-      "file": "aavajoki_sweden.json",
-      "days": 365
-    },
-    "Ottawa": {
-      "file": "ottawa_canada.json",
-      "days": 365
-    },
-    "Wien Brigittenau": {
-      "file": "wien_brigittenau_austria.json",
-      "days": 365
-    },
-    "Albrechtice U Susice": {
-      "file": "albrechtice_u_susice_czech-republic.json",
-      "days": 365
-    },
-    "Kuopio": {
-      "file": "kuopio_finland.json",
-      "days": 365
-    },
-    "Praha Zapad": {
-      "file": "praha_zapad_czech-republic.json",
-      "days": 365
-    },
-    "Frankfurt Oder": {
-      "file": "frankfurt_oder_germany.json",
-      "days": 365
-    },
-    "Aalborg Ost": {
-      "file": "aalborg_ost_denmark.json",
-      "days": 365
-    },
-    "Absdorf": {
-      "file": "absdorf_austria.json",
+    "Lodz": {
+      "file": "lodz_poland.json",
       "days": 365
     },
     "Abrupji": {
       "file": "abrupji_latvia.json",
       "days": 365
     },
-    "Abbeyside": {
-      "file": "abbeyside_ireland.json",
+    "Adamowizna": {
+      "file": "adamowizna_poland.json",
       "days": 365
     },
-    "Aagtekerke": {
-      "file": "aagtekerke_netherlands.json",
+    "Abbotsford": {
+      "file": "abbotsford_canada.json",
       "days": 365
     },
-    "Aart": {
-      "file": "aart_belgium.json",
+    "Aalden": {
+      "file": "aalden_netherlands.json",
       "days": 365
     },
-    "Halmstad": {
-      "file": "halmstad_sweden.json",
+    "Adrianopol": {
+      "file": "adrianopol_ukraine.json",
       "days": 365
     },
-    "Abarp": {
-      "file": "abarp_sweden.json",
+    "Abaucourt": {
+      "file": "abaucourt_france.json",
       "days": 365
     },
-    "Liepajas Rajons": {
-      "file": "liepajas_rajons_latvia.json",
+    "Winnipeg": {
+      "file": "winnipeg_canada.json",
       "days": 365
     },
-    "Aasamaa": {
-      "file": "aasamaa_finland.json",
+    "Linkopings Kommun": {
+      "file": "linkopings_kommun_sweden.json",
       "days": 365
     },
-    "Grindavik": {
-      "file": "grindavik_iceland.json",
+    "Aagtdorp": {
+      "file": "aagtdorp_netherlands.json",
       "days": 365
     },
-    "Abington": {
-      "file": "abington_ireland.json",
+    "Frankfurt Oder": {
+      "file": "frankfurt_oder_germany.json",
       "days": 365
     },
-    "Aberdeen": {
-      "file": "aberdeen_uk.json",
+    "Albrechtovice": {
+      "file": "albrechtovice_czech-republic.json",
       "days": 365
     },
-    "Albertslund Kommune": {
-      "file": "albertslund_kommune_denmark.json",
+    "Stockholm": {
+      "file": "stockholm_sweden.json",
       "days": 365
     },
-    "Kolding": {
-      "file": "kolding_denmark.json",
+    "Albrechtice U Susice": {
+      "file": "albrechtice_u_susice_czech-republic.json",
+      "days": 365
+    },
+    "Abod": {
+      "file": "abod_hungary.json",
+      "days": 365
+    },
+    "Bremen": {
+      "file": "bremen_germany.json",
+      "days": 365
+    },
+    "Aalen": {
+      "file": "aalen_germany.json",
+      "days": 365
+    },
+    "Akriony": {
+      "file": "akriony_belarus.json",
+      "days": 365
+    },
+    "Nanterre": {
+      "file": "nanterre_france.json",
       "days": 365
     },
     "Aabeek": {
       "file": "aabeek_belgium.json",
       "days": 365
     },
+    "Northampton": {
+      "file": "northampton_uk.json",
+      "days": 365
+    },
+    "Akureyri": {
+      "file": "akureyri_iceland.json",
+      "days": 365
+    },
+    "Borlange": {
+      "file": "borlange_sweden.json",
+      "days": 365
+    },
+    "Wolfsburg": {
+      "file": "wolfsburg_germany.json",
+      "days": 365
+    },
+    "Achatzberg": {
+      "file": "achatzberg_austria.json",
+      "days": 365
+    },
+    "Abbey Dore": {
+      "file": "abbey_dore_uk.json",
+      "days": 365
+    },
+    "Achill Sound": {
+      "file": "achill_sound_ireland.json",
+      "days": 365
+    },
+    "Glasgow": {
+      "file": "glasgow_uk.json",
+      "days": 365
+    },
+    "Aalbeke": {
+      "file": "aalbeke_belgium.json",
+      "days": 365
+    },
+    "Reading": {
+      "file": "reading_uk.json",
+      "days": 365
+    },
+    "Kajaani": {
+      "file": "kajaani_finland.json",
+      "days": 365
+    },
+    "Vejle": {
+      "file": "vejle_denmark.json",
+      "days": 365
+    },
+    "Abaer": {
+      "file": "abaer_iceland.json",
+      "days": 365
+    },
+    "Teplice": {
+      "file": "teplice_czech-republic.json",
+      "days": 365
+    },
+    "Wienersdorf": {
+      "file": "wienersdorf_austria.json",
+      "days": 365
+    },
+    "Abrupe": {
+      "file": "abrupe_latvia.json",
+      "days": 365
+    },
+    "Aarholmanluoto": {
+      "file": "aarholmanluoto_finland.json",
+      "days": 365
+    },
+    "Abarp": {
+      "file": "abarp_sweden.json",
+      "days": 365
+    },
+    "Aalisjoki": {
+      "file": "aalisjoki_finland.json",
+      "days": 365
+    },
+    "Wroclaw": {
+      "file": "wroclaw_poland.json",
+      "days": 365
+    },
+    "Abbeytown": {
+      "file": "abbeytown_ireland.json",
+      "days": 365
+    },
+    "S Hertogenbosch": {
+      "file": "s_hertogenbosch_netherlands.json",
+      "days": 365
+    },
+    "Brussels": {
+      "file": "brussels_belgium.json",
+      "days": 365
+    },
+    "Vantaa": {
+      "file": "vantaa_finland.json",
+      "days": 365
+    },
+    "Adamow": {
+      "file": "adamow_poland.json",
+      "days": 365
+    },
+    "Aardappelhoek": {
+      "file": "aardappelhoek_belgium.json",
+      "days": 365
+    },
+    "Achau": {
+      "file": "achau_austria.json",
+      "days": 365
+    },
+    "Aal Bach": {
+      "file": "aal_bach_germany.json",
+      "days": 365
+    },
+    "Abbotsley": {
+      "file": "abbotsley_uk.json",
+      "days": 365
+    },
+    "Hradec Kralove": {
+      "file": "hradec_kralove_czech-republic.json",
+      "days": 365
+    },
+    "S Heerenberg": {
+      "file": "s_heerenberg_netherlands.json",
+      "days": 365
+    },
+    "Herning Kommune": {
+      "file": "herning_kommune_denmark.json",
+      "days": 365
+    },
+    "Orebro": {
+      "file": "orebro_sweden.json",
+      "days": 365
+    },
+    "Aavajoki": {
+      "file": "aavajoki_sweden.json",
+      "days": 365
+    },
+    "Achbach": {
+      "file": "achbach_austria.json",
+      "days": 365
+    },
+    "Quebec City": {
+      "file": "quebec_city_canada.json",
+      "days": 365
+    },
+    "Adzhamka": {
+      "file": "adzhamka_ukraine.json",
+      "days": 365
+    },
+    "Abbaye Sous Plancy": {
+      "file": "abbaye_sous_plancy_france.json",
+      "days": 365
+    },
+    "T Zand": {
+      "file": "t_zand_netherlands.json",
+      "days": 365
+    },
+    "Portland": {
+      "file": "portland_usa.json",
+      "days": 365
+    },
+    "Virginia": {
+      "file": "virginia_ireland.json",
+      "days": 365
+    },
+    "Grodno": {
+      "file": "grodno_belarus.json",
+      "days": 365
+    },
+    "Aakirkeby": {
+      "file": "aakirkeby_denmark.json",
+      "days": 365
+    },
+    "Regina": {
+      "file": "regina_canada.json",
+      "days": 365
+    },
+    "Abbey Cwmhir": {
+      "file": "abbey_cwmhir_uk.json",
+      "days": 365
+    },
+    "Aguanish": {
+      "file": "aguanish_canada.json",
+      "days": 365
+    },
+    "Aartselaar": {
+      "file": "aartselaar_belgium.json",
+      "days": 365
+    },
+    "Detroit": {
+      "file": "detroit_usa.json",
+      "days": 365
+    },
+    "Achremowce": {
+      "file": "achremowce_belarus.json",
+      "days": 365
+    },
+    "Aalkastenfliess": {
+      "file": "aalkastenfliess_germany.json",
+      "days": 365
+    },
+    "Abbey View": {
+      "file": "abbey_view_ireland.json",
+      "days": 365
+    },
+    "Riga Strand": {
+      "file": "riga_strand_latvia.json",
+      "days": 365
+    },
+    "Adamenki": {
+      "file": "adamenki_belarus.json",
+      "days": 365
+    },
+    "Aagtekerke": {
+      "file": "aagtekerke_netherlands.json",
+      "days": 365
+    },
+    "Aasuvalja": {
+      "file": "aasuvalja_estonia.json",
+      "days": 365
+    },
+    "Aakaru": {
+      "file": "aakaru_estonia.json",
+      "days": 365
+    },
+    "Limerick Canal": {
+      "file": "limerick_canal_ireland.json",
+      "days": 365
+    },
+    "Abacka": {
+      "file": "abacka_sweden.json",
+      "days": 365
+    },
+    "Helmond": {
+      "file": "helmond_netherlands.json",
+      "days": 365
+    },
+    "Voronezh": {
+      "file": "voronezh_russia.json",
+      "days": 365
+    },
+    "Aber Fan": {
+      "file": "aber_fan_uk.json",
+      "days": 365
+    },
+    "Gouda": {
+      "file": "gouda_netherlands.json",
+      "days": 365
+    },
+    "Tallinn": {
+      "file": "tallinn_estonia.json",
+      "days": 365
+    },
+    "Adara": {
+      "file": "adara_estonia.json",
+      "days": 365
+    },
+    "Abtei": {
+      "file": "abtei_poland.json",
+      "days": 365
+    },
+    "Cologne": {
+      "file": "cologne_germany.json",
+      "days": 365
+    },
+    "Abbey Head": {
+      "file": "abbey_head_uk.json",
+      "days": 365
+    },
+    "T Zandt": {
+      "file": "t_zandt_netherlands.json",
+      "days": 365
+    },
+    "Ala": {
+      "file": "ala_belarus.json",
+      "days": 365
+    },
+    "Adamowka": {
+      "file": "adamowka_poland.json",
+      "days": 365
+    },
+    "Kolding": {
+      "file": "kolding_denmark.json",
+      "days": 365
+    },
+    "Aarschot": {
+      "file": "aarschot_belgium.json",
+      "days": 365
+    },
+    "Abakumy": {
+      "file": "abakumy_belarus.json",
+      "days": 365
+    },
+    "Aabenraa Kommune": {
+      "file": "aabenraa_kommune_denmark.json",
+      "days": 365
+    },
+    "Coventry": {
+      "file": "coventry_uk.json",
+      "days": 365
+    },
+    "Abbeymahon": {
+      "file": "abbeymahon_ireland.json",
+      "days": 365
+    },
+    "Goteborgs Kommun": {
+      "file": "goteborgs_kommun_sweden.json",
+      "days": 365
+    },
+    "Aaen": {
+      "file": "aaen_norway.json",
+      "days": 365
+    },
+    "Achadh Ur": {
+      "file": "achadh_ur_ireland.json",
+      "days": 365
+    },
+    "Abborraslatt": {
+      "file": "abborraslatt_sweden.json",
+      "days": 365
+    },
+    "Arendal": {
+      "file": "arendal_norway.json",
+      "days": 365
+    },
+    "Bergen": {
+      "file": "bergen_norway.json",
+      "days": 365
+    },
+    "Wels": {
+      "file": "wels_austria.json",
+      "days": 365
+    },
+    "Abborrberg": {
+      "file": "abborrberg_sweden.json",
+      "days": 365
+    },
+    "Goteborg": {
+      "file": "goteborg_sweden.json",
+      "days": 365
+    },
+    "Abdie Church": {
+      "file": "abdie_church_uk.json",
+      "days": 365
+    },
+    "Albrechtice Nad Vltavou": {
+      "file": "albrechtice_nad_vltavou_czech-republic.json",
+      "days": 365
+    },
+    "Abulas": {
+      "file": "abulas_latvia.json",
+      "days": 365
+    },
+    "Slough": {
+      "file": "slough_uk.json",
+      "days": 365
+    },
+    "Alatay": {
+      "file": "alatay_kazakhstan.json",
+      "days": 365
+    },
+    "Aasbruch": {
+      "file": "aasbruch_germany.json",
+      "days": 365
+    },
+    "Almere Stad": {
+      "file": "almere_stad_netherlands.json",
+      "days": 365
+    },
+    "Karhula": {
+      "file": "karhula_finland.json",
+      "days": 365
+    },
+    "Abaja": {
+      "file": "abaja_estonia.json",
+      "days": 365
+    },
+    "Stockholm North": {
+      "file": "stockholm_north_sweden.json",
+      "days": 365
+    },
+    "Adamov": {
+      "file": "adamov_ukraine.json",
+      "days": 365
+    },
+    "Tallinna Reid": {
+      "file": "tallinna_reid_estonia.json",
+      "days": 365
+    },
+    "Moscow Central": {
+      "file": "moscow_central_russia.json",
+      "days": 365
+    },
+    "Farciennes": {
+      "file": "farciennes_belgium.json",
+      "days": 365
+    },
+    "Ostrava": {
+      "file": "ostrava_czech-republic.json",
+      "days": 365
+    },
+    "Aacher Bach": {
+      "file": "aacher_bach_germany.json",
+      "days": 365
+    },
+    "Aamse": {
+      "file": "aamse_estonia.json",
+      "days": 365
+    },
+    "Adamierz": {
+      "file": "adamierz_poland.json",
+      "days": 365
+    },
+    "Roermond": {
+      "file": "roermond_netherlands.json",
+      "days": 365
+    },
+    "Skien": {
+      "file": "skien_norway.json",
+      "days": 365
+    },
+    "Aakaer": {
+      "file": "aakaer_denmark.json",
+      "days": 365
+    },
+    "S Gravenwezel": {
+      "file": "s_gravenwezel_belgium.json",
+      "days": 365
+    },
+    "St. Johns": {
+      "file": "st._johns_canada.json",
+      "days": 365
+    },
+    "Aalbek": {
+      "file": "aalbek_germany.json",
+      "days": 365
+    },
+    "Halmstad": {
+      "file": "halmstad_sweden.json",
+      "days": 365
+    },
+    "Achill": {
+      "file": "achill_ireland.json",
+      "days": 365
+    },
+    "Ab Kettleby": {
+      "file": "ab_kettleby_uk.json",
+      "days": 365
+    },
+    "Adelsdorf": {
+      "file": "adelsdorf_czech-republic.json",
+      "days": 365
+    },
+    "Abbots Ripton": {
+      "file": "abbots_ripton_uk.json",
+      "days": 365
+    },
+    "Cahersiveen": {
+      "file": "cahersiveen_ireland.json",
+      "days": 365
+    },
+    "A Chleit": {
+      "file": "a_chleit_uk.json",
+      "days": 365
+    },
+    "Abbots Worthy": {
+      "file": "abbots_worthy_uk.json",
+      "days": 365
+    },
+    "Aabjerg": {
+      "file": "aabjerg_denmark.json",
+      "days": 365
+    },
+    "Aarikkala": {
+      "file": "aarikkala_finland.json",
+      "days": 365
+    },
+    "Aaftinkbrug": {
+      "file": "aaftinkbrug_netherlands.json",
+      "days": 365
+    },
+    "Aaljoki": {
+      "file": "aaljoki_finland.json",
+      "days": 365
+    },
+    "Abbeyfeale": {
+      "file": "abbeyfeale_ireland.json",
+      "days": 365
+    },
+    "Karlstad": {
+      "file": "karlstad_sweden.json",
+      "days": 365
+    },
+    "Bristol": {
+      "file": "bristol_uk.json",
+      "days": 365
+    },
+    "Abborrasen": {
+      "file": "abborrasen_sweden.json",
+      "days": 365
+    },
+    "Abaimovo": {
+      "file": "abaimovo_russia.json",
+      "days": 365
+    },
+    "Abbarp": {
+      "file": "abbarp_sweden.json",
+      "days": 365
+    },
+    "Aagesholm": {
+      "file": "aagesholm_denmark.json",
+      "days": 365
+    },
+    "Aalbaek": {
+      "file": "aalbaek_denmark.json",
+      "days": 365
+    },
+    "Abbert": {
+      "file": "abbert_ireland.json",
+      "days": 365
+    },
+    "Tullamore": {
+      "file": "tullamore_ireland.json",
+      "days": 365
+    },
+    "A Chuli": {
+      "file": "a_chuli_uk.json",
+      "days": 365
+    },
+    "Aadorp": {
+      "file": "aadorp_netherlands.json",
+      "days": 365
+    },
+    "Dublin Pike": {
+      "file": "dublin_pike_ireland.json",
+      "days": 365
+    },
+    "Aarni": {
+      "file": "aarni_finland.json",
+      "days": 365
+    },
+    "T Haantje": {
+      "file": "t_haantje_netherlands.json",
+      "days": 365
+    },
+    "Espoonlahti": {
+      "file": "espoonlahti_finland.json",
+      "days": 365
+    },
+    "Aachen": {
+      "file": "aachen_germany.json",
+      "days": 365
+    },
+    "Aaviku": {
+      "file": "aaviku_estonia.json",
+      "days": 365
+    },
+    "Lund": {
+      "file": "lund_sweden.json",
+      "days": 365
+    },
+    "Liepaja": {
+      "file": "liepaja_latvia.json",
+      "days": 365
+    },
+    "Minsk Oblast": {
+      "file": "minsk_oblast_belarus.json",
+      "days": 365
+    },
+    "Bialystok": {
+      "file": "bialystok_poland.json",
+      "days": 365
+    },
+    "Copenhagen": {
+      "file": "copenhagen_denmark.json",
+      "days": 365
+    },
+    "Vaasa": {
+      "file": "vaasa_finland.json",
+      "days": 365
+    },
+    "Aaslaluoto": {
+      "file": "aaslaluoto_finland.json",
+      "days": 365
+    },
+    "A Ghlas Bheinn": {
+      "file": "a_ghlas_bheinn_uk.json",
+      "days": 365
+    },
+    "Adamow Stary": {
+      "file": "adamow_stary_poland.json",
+      "days": 365
+    },
+    "Alberice": {
+      "file": "alberice_czech-republic.json",
+      "days": 365
+    },
+    "Semey": {
+      "file": "semey_kazakhstan.json",
+      "days": 365
+    },
+    "Aartaminjarvi": {
+      "file": "aartaminjarvi_finland.json",
+      "days": 365
+    },
+    "Aichen": {
+      "file": "aichen_czech-republic.json",
+      "days": 365
+    },
+    "Leuven Vaart": {
+      "file": "leuven_vaart_belgium.json",
+      "days": 365
+    },
+    "Galway Bay": {
+      "file": "galway_bay_ireland.json",
+      "days": 365
+    },
+    "A Bhrideanach": {
+      "file": "a_bhrideanach_uk.json",
+      "days": 365
+    },
+    "Kristiansand": {
+      "file": "kristiansand_norway.json",
+      "days": 365
+    },
+    "Linzerod": {
+      "file": "linzerod_austria.json",
+      "days": 365
+    },
+    "Praha Vychod": {
+      "file": "praha_vychod_czech-republic.json",
+      "days": 365
+    },
+    "Heerlen": {
+      "file": "heerlen_netherlands.json",
+      "days": 365
+    },
+    "Nykobing Falster Kommune": {
+      "file": "nykobing_falster_kommune_denmark.json",
+      "days": 365
+    },
+    "Volda": {
+      "file": "volda_norway.json",
+      "days": 365
+    },
+    "Olafsvik": {
+      "file": "olafsvik_iceland.json",
+      "days": 365
+    },
+    "Plzen Jih": {
+      "file": "plzen_jih_czech-republic.json",
+      "days": 365
+    },
+    "Huddersfield": {
+      "file": "huddersfield_uk.json",
+      "days": 365
+    },
+    "Portsmouth": {
+      "file": "portsmouth_uk.json",
+      "days": 365
+    },
+    "Ahalnica Wielka": {
+      "file": "ahalnica_wielka_belarus.json",
+      "days": 365
+    },
+    "Abakonovo": {
+      "file": "abakonovo_russia.json",
+      "days": 365
+    },
+    "Kharkiv": {
+      "file": "kharkiv_ukraine.json",
+      "days": 365
+    },
+    "Esmony": {
+      "file": "esmony_belarus.json",
+      "days": 365
+    },
+    "Achrymowce": {
+      "file": "achrymowce_poland.json",
+      "days": 365
+    },
+    "A Mhoine": {
+      "file": "a_mhoine_uk.json",
+      "days": 365
+    },
+    "Abhainn An Scail": {
+      "file": "abhainn_an_scail_ireland.json",
+      "days": 365
+    },
+    "Aburi": {
+      "file": "aburi_estonia.json",
+      "days": 365
+    },
+    "Katowice": {
+      "file": "katowice_poland.json",
+      "days": 365
+    },
+    "Plzensky Kraj": {
+      "file": "plzensky_kraj_czech-republic.json",
+      "days": 365
+    },
+    "Abuls": {
+      "file": "abuls_latvia.json",
+      "days": 365
+    },
+    "Albertyn": {
+      "file": "albertyn_belarus.json",
+      "days": 365
+    },
+    "Dnepropetrovsk": {
+      "file": "dnepropetrovsk_ukraine.json",
+      "days": 365
+    },
+    "Aaldonk": {
+      "file": "aaldonk_netherlands.json",
+      "days": 365
+    },
+    "Adamowek": {
+      "file": "adamowek_poland.json",
+      "days": 365
+    },
+    "Abaucourt Les Souppleville": {
+      "file": "abaucourt_les_souppleville_france.json",
+      "days": 365
+    },
+    "Kuopio": {
+      "file": "kuopio_finland.json",
+      "days": 365
+    },
+    "Kuybyshev": {
+      "file": "kuybyshev_russia.json",
+      "days": 365
+    },
+    "Aboldari": {
+      "file": "aboldari_latvia.json",
+      "days": 365
+    },
+    "Aabenraa": {
+      "file": "aabenraa_denmark.json",
+      "days": 365
+    },
+    "Abetzdorf": {
+      "file": "abetzdorf_austria.json",
+      "days": 365
+    },
+    "Southampton": {
+      "file": "southampton_uk.json",
+      "days": 365
+    },
+    "Paris": {
+      "file": "paris_france.json",
+      "days": 365
+    },
+    "Ust Kamenogorsk": {
+      "file": "ust_kamenogorsk_kazakhstan.json",
+      "days": 365
+    },
+    "Abbachhof": {
+      "file": "abbachhof_germany.json",
+      "days": 365
+    },
+    "Poltava": {
+      "file": "poltava_ukraine.json",
+      "days": 365
+    },
+    "Umea": {
+      "file": "umea_sweden.json",
+      "days": 365
+    },
+    "Elsk": {
+      "file": "elsk_belarus.json",
+      "days": 365
+    },
+    "Bradford": {
+      "file": "bradford_uk.json",
+      "days": 365
+    },
+    "Limerick": {
+      "file": "limerick_ireland.json",
+      "days": 365
+    },
+    "Mouscron": {
+      "file": "mouscron_belgium.json",
+      "days": 365
+    },
+    "Prague Vinohrady": {
+      "file": "prague_vinohrady_czech-republic.json",
+      "days": 365
+    },
+    "Prestholar": {
+      "file": "prestholar_iceland.json",
+      "days": 365
+    },
+    "Abbeyville": {
+      "file": "abbeyville_ireland.json",
+      "days": 365
+    },
+    "Aaltola": {
+      "file": "aaltola_finland.json",
+      "days": 365
+    },
+    "Novosibirsk": {
+      "file": "novosibirsk_russia.json",
+      "days": 365
+    },
+    "Abborrkassen": {
+      "file": "abborrkassen_sweden.json",
+      "days": 365
+    },
+    "Aasbuttel": {
+      "file": "aasbuttel_germany.json",
+      "days": 365
+    },
+    "Abstich": {
+      "file": "abstich_poland.json",
+      "days": 365
+    },
+    "Lodz Widzew": {
+      "file": "lodz_widzew_poland.json",
+      "days": 365
+    },
+    "Aberaeron": {
+      "file": "aberaeron_uk.json",
+      "days": 365
+    },
+    "Abaschin": {
+      "file": "abaschin_czech-republic.json",
+      "days": 365
+    },
+    "Abja": {
+      "file": "abja_estonia.json",
+      "days": 365
+    },
+    "Prague": {
+      "file": "prague_czech-republic.json",
+      "days": 365
+    },
+    "Adaka": {
+      "file": "adaka_estonia.json",
+      "days": 365
+    },
+    "Newcastle Upon Tyne": {
+      "file": "newcastle_upon_tyne_uk.json",
+      "days": 365
+    },
+    "Aiyansh": {
+      "file": "aiyansh_canada.json",
+      "days": 365
+    },
+    "Aklavik": {
+      "file": "aklavik_canada.json",
+      "days": 365
+    },
+    "Abborrback": {
+      "file": "abborrback_sweden.json",
+      "days": 365
+    },
+    "Adolfovice": {
+      "file": "adolfovice_czech-republic.json",
+      "days": 365
+    },
+    "Adamowice": {
+      "file": "adamowice_poland.json",
+      "days": 365
+    },
+    "Akranes": {
+      "file": "akranes_iceland.json",
+      "days": 365
+    },
+    "Bialystok Starosielce": {
+      "file": "bialystok_starosielce_poland.json",
+      "days": 365
+    },
+    "Odense Kommune": {
+      "file": "odense_kommune_denmark.json",
+      "days": 365
+    },
+    "Bydgoszcz": {
+      "file": "bydgoszcz_poland.json",
+      "days": 365
+    },
+    "Boras": {
+      "file": "boras_sweden.json",
+      "days": 365
+    },
+    "Seattle": {
+      "file": "seattle_usa.json",
+      "days": 365
+    },
+    "Akulivik": {
+      "file": "akulivik_canada.json",
+      "days": 365
+    },
+    "Aaletajarvi": {
+      "file": "aaletajarvi_finland.json",
+      "days": 365
+    },
+    "Dublin Bay": {
+      "file": "dublin_bay_ireland.json",
+      "days": 365
+    },
+    "Aalburg": {
+      "file": "aalburg_netherlands.json",
+      "days": 365
+    },
+    "Abbess Roding": {
+      "file": "abbess_roding_uk.json",
+      "days": 365
+    },
+    "Den Haag": {
+      "file": "den_haag_netherlands.json",
+      "days": 365
+    },
+    "Kolding Kommune": {
+      "file": "kolding_kommune_denmark.json",
+      "days": 365
+    },
+    "Aardla Jarv": {
+      "file": "aardla_jarv_estonia.json",
+      "days": 365
+    },
+    "Praha Zapad": {
+      "file": "praha_zapad_czech-republic.json",
+      "days": 365
+    },
+    "Abbey Town": {
+      "file": "abbey_town_uk.json",
+      "days": 365
+    },
+    "Abbeylough River": {
+      "file": "abbeylough_river_ireland.json",
+      "days": 365
+    },
+    "Aagaad": {
+      "file": "aagaad_russia.json",
+      "days": 365
+    },
+    "Anchorage": {
+      "file": "anchorage_usa.json",
+      "days": 365
+    },
+    "A La Ligne": {
+      "file": "a_la_ligne_france.json",
+      "days": 365
+    },
+    "Abetzberg": {
+      "file": "abetzberg_austria.json",
+      "days": 365
+    },
+    "Bodo": {
+      "file": "bodo_norway.json",
+      "days": 365
+    },
+    "Aerlaekjarsel": {
+      "file": "aerlaekjarsel_iceland.json",
+      "days": 365
+    },
+    "Adamczowice": {
+      "file": "adamczowice_poland.json",
+      "days": 365
+    },
+    "Aadland": {
+      "file": "aadland_norway.json",
+      "days": 365
+    },
+    "Brnov": {
+      "file": "brnov_czech-republic.json",
+      "days": 365
+    },
+    "Eindhoven": {
+      "file": "eindhoven_netherlands.json",
+      "days": 365
+    },
+    "Preston": {
+      "file": "preston_uk.json",
+      "days": 365
+    },
+    "Raahe": {
+      "file": "raahe_finland.json",
+      "days": 365
+    },
+    "Abainville": {
+      "file": "abainville_france.json",
+      "days": 365
+    },
+    "Aarlahti": {
+      "file": "aarlahti_finland.json",
+      "days": 365
+    },
+    "Abaruni": {
+      "file": "abaruni_latvia.json",
+      "days": 365
+    },
+    "Fairbanks": {
+      "file": "fairbanks_usa.json",
+      "days": 365
+    },
+    "Ainsworth Hot Springs": {
+      "file": "ainsworth_hot_springs_canada.json",
+      "days": 365
+    },
+    "Abbeyside": {
+      "file": "abbeyside_ireland.json",
+      "days": 365
+    },
+    "Aber Bran": {
+      "file": "aber_bran_uk.json",
+      "days": 365
+    },
+    "Abee": {
+      "file": "abee_canada.json",
+      "days": 365
+    },
+    "Aden": {
+      "file": "aden_canada.json",
+      "days": 365
+    },
+    "Moscow": {
+      "file": "moscow_russia.json",
+      "days": 365
+    },
+    "Akulinki": {
+      "file": "akulinki_belarus.json",
+      "days": 365
+    },
+    "Aapua": {
+      "file": "aapua_sweden.json",
+      "days": 365
+    },
+    "Maaseik": {
+      "file": "maaseik_belgium.json",
+      "days": 365
+    },
+    "Reykjavik": {
+      "file": "reykjavik_iceland.json",
+      "days": 365
+    },
+    "Bonn": {
+      "file": "bonn_germany.json",
+      "days": 365
+    },
+    "Acme": {
+      "file": "acme_canada.json",
+      "days": 365
+    },
+    "Tampere": {
+      "file": "tampere_finland.json",
+      "days": 365
+    },
+    "Fredrikstad": {
+      "file": "fredrikstad_norway.json",
+      "days": 365
+    },
+    "Blackburn": {
+      "file": "blackburn_uk.json",
+      "days": 365
+    },
+    "Aber": {
+      "file": "aber_uk.json",
+      "days": 365
+    },
+    "Abagaytuy": {
+      "file": "abagaytuy_russia.json",
+      "days": 365
+    },
+    "Abbotsinch": {
+      "file": "abbotsinch_uk.json",
+      "days": 365
+    },
+    "Abbasen": {
+      "file": "abbasen_sweden.json",
+      "days": 365
+    },
+    "Aatsajoki": {
+      "file": "aatsajoki_finland.json",
+      "days": 365
+    },
+    "Aabyhoj": {
+      "file": "aabyhoj_denmark.json",
+      "days": 365
+    },
+    "Brno": {
+      "file": "brno_czech-republic.json",
+      "days": 365
+    },
+    "Poznan": {
+      "file": "poznan_poland.json",
+      "days": 365
+    },
+    "Rochdale": {
+      "file": "rochdale_uk.json",
+      "days": 365
+    },
+    "Oslo Havn": {
+      "file": "oslo_havn_norway.json",
+      "days": 365
+    },
+    "Abissaare": {
+      "file": "abissaare_estonia.json",
+      "days": 365
+    },
+    "Aarholma": {
+      "file": "aarholma_finland.json",
+      "days": 365
+    },
+    "Genk": {
+      "file": "genk_belgium.json",
+      "days": 365
+    },
+    "Acres Lough": {
+      "file": "acres_lough_ireland.json",
+      "days": 365
+    },
+    "Manchester": {
+      "file": "manchester_uk.json",
+      "days": 365
+    },
+    "Lille": {
+      "file": "lille_france.json",
+      "days": 365
+    },
+    "Tallinna Laht": {
+      "file": "tallinna_laht_estonia.json",
+      "days": 365
+    },
+    "Aksiutowo": {
+      "file": "aksiutowo_belarus.json",
+      "days": 365
+    },
+    "Albinsk": {
+      "file": "albinsk_belarus.json",
+      "days": 365
+    },
+    "Aaninen": {
+      "file": "aaninen_russia.json",
+      "days": 365
+    },
+    "Aareavaara": {
+      "file": "aareavaara_sweden.json",
+      "days": 365
+    },
+    "Kiev Oblast": {
+      "file": "kiev_oblast_ukraine.json",
+      "days": 365
+    },
+    "Adalvik": {
+      "file": "adalvik_iceland.json",
+      "days": 365
+    },
+    "Liege": {
+      "file": "liege_belgium.json",
+      "days": 365
+    },
+    "Minsk": {
+      "file": "minsk_belarus.json",
+      "days": 365
+    },
+    "Aabenraa Fjord": {
+      "file": "aabenraa_fjord_denmark.json",
+      "days": 365
+    },
+    "Abbey Wood": {
+      "file": "abbey_wood_uk.json",
+      "days": 365
+    },
+    "Adare": {
+      "file": "adare_ireland.json",
+      "days": 365
+    },
+    "Adaminowo": {
+      "file": "adaminowo_poland.json",
+      "days": 365
+    },
+    "Abern": {
+      "file": "abern_austria.json",
+      "days": 365
+    },
+    "Adare Manor": {
+      "file": "adare_manor_ireland.json",
+      "days": 365
+    },
+    "Abbemala": {
+      "file": "abbemala_sweden.json",
+      "days": 365
+    },
+    "Affall": {
+      "file": "affall_iceland.json",
+      "days": 365
+    },
+    "Aarrekangas": {
+      "file": "aarrekangas_finland.json",
+      "days": 365
+    },
+    "Hamburg": {
+      "file": "hamburg_germany.json",
+      "days": 365
+    },
+    "Aach": {
+      "file": "aach_germany.json",
+      "days": 365
+    },
+    "Aalbaek Bugt": {
+      "file": "aalbaek_bugt_denmark.json",
+      "days": 365
+    },
+    "Aakoinen": {
+      "file": "aakoinen_finland.json",
+      "days": 365
+    },
+    "Abwinden": {
+      "file": "abwinden_austria.json",
+      "days": 365
+    },
+    "Dortmund": {
+      "file": "dortmund_germany.json",
+      "days": 365
+    },
+    "Sheffield": {
+      "file": "sheffield_uk.json",
+      "days": 365
+    },
+    "Adamovka": {
+      "file": "adamovka_belarus.json",
+      "days": 365
+    },
+    "Aasleagh": {
+      "file": "aasleagh_ireland.json",
+      "days": 365
+    },
+    "Albrechtice Nad Orlici": {
+      "file": "albrechtice_nad_orlici_czech-republic.json",
+      "days": 365
+    },
+    "Berlin Mitte": {
+      "file": "berlin_mitte_germany.json",
+      "days": 365
+    },
+    "Vinnitsa": {
+      "file": "vinnitsa_ukraine.json",
+      "days": 365
+    },
+    "Abborrhult": {
+      "file": "abborrhult_sweden.json",
+      "days": 365
+    },
+    "Alenina Lhota": {
+      "file": "alenina_lhota_czech-republic.json",
+      "days": 365
+    },
+    "Holstebro Kommune": {
+      "file": "holstebro_kommune_denmark.json",
+      "days": 365
+    },
+    "Aavaviken": {
+      "file": "aavaviken_sweden.json",
+      "days": 365
+    },
+    "Abula": {
+      "file": "abula_latvia.json",
+      "days": 365
+    },
+    "Abbeville La Riviere": {
+      "file": "abbeville_la_riviere_france.json",
+      "days": 365
+    },
+    "London": {
+      "file": "london_uk.json",
+      "days": 365
+    },
+    "Abbotts Ann": {
+      "file": "abbotts_ann_uk.json",
+      "days": 365
+    },
+    "Aalbroek": {
+      "file": "aalbroek_belgium.json",
+      "days": 365
+    },
+    "Skive Kommune": {
+      "file": "skive_kommune_denmark.json",
+      "days": 365
+    },
+    "Gdansk": {
+      "file": "gdansk_poland.json",
+      "days": 365
+    },
+    "Aapajoki": {
+      "file": "aapajoki_finland.json",
+      "days": 365
+    },
+    "Ekiman": {
+      "file": "ekiman_belarus.json",
+      "days": 365
+    },
+    "Plzen": {
+      "file": "plzen_czech-republic.json",
+      "days": 365
+    },
+    "Aalkasten": {
+      "file": "aalkasten_germany.json",
+      "days": 365
+    },
+    "Samara": {
+      "file": "samara_russia.json",
+      "days": 365
+    },
+    "Ababurovo": {
+      "file": "ababurovo_russia.json",
+      "days": 365
+    },
+    "Galway Harbour": {
+      "file": "galway_harbour_ireland.json",
+      "days": 365
+    },
+    "Oslo": {
+      "file": "oslo_norway.json",
+      "days": 365
+    },
+    "Aleksandrov": {
+      "file": "aleksandrov_belarus.json",
+      "days": 365
+    },
+    "Lappeenranta": {
+      "file": "lappeenranta_finland.json",
+      "days": 365
+    },
+    "S Heerenbroek": {
+      "file": "s_heerenbroek_netherlands.json",
+      "days": 365
+    },
+    "Karlsruhe": {
+      "file": "karlsruhe_germany.json",
+      "days": 365
+    },
+    "Abakano Perevoz": {
+      "file": "abakano_perevoz_russia.json",
+      "days": 365
+    },
+    "Zoetermeer": {
+      "file": "zoetermeer_netherlands.json",
+      "days": 365
+    },
+    "Aabachtalsperre": {
+      "file": "aabachtalsperre_germany.json",
+      "days": 365
+    },
+    "Aabauerschaft": {
+      "file": "aabauerschaft_germany.json",
+      "days": 365
+    },
+    "Abbots Bickington": {
+      "file": "abbots_bickington_uk.json",
+      "days": 365
+    },
+    "Turku": {
+      "file": "turku_finland.json",
+      "days": 365
+    },
+    "Aakjaer": {
+      "file": "aakjaer_denmark.json",
+      "days": 365
+    },
+    "Essa": {
+      "file": "essa_belarus.json",
+      "days": 365
+    },
+    "S Graveland": {
+      "file": "s_graveland_netherlands.json",
+      "days": 365
+    },
+    "Tartussaare Raba": {
+      "file": "tartussaare_raba_estonia.json",
+      "days": 365
+    },
+    "Wienau": {
+      "file": "wienau_austria.json",
+      "days": 365
+    },
+    "Vitebsk": {
+      "file": "vitebsk_belarus.json",
+      "days": 365
+    },
+    "Leiden": {
+      "file": "leiden_netherlands.json",
+      "days": 365
+    },
+    "Rotterdam Hofplein": {
+      "file": "rotterdam_hofplein_netherlands.json",
+      "days": 365
+    },
+    "A Mharconaich": {
+      "file": "a_mharconaich_uk.json",
+      "days": 365
+    },
+    "Abagalakh": {
+      "file": "abagalakh_russia.json",
+      "days": 365
+    },
+    "Abaujvar": {
+      "file": "abaujvar_hungary.json",
+      "days": 365
+    },
+    "Adamchuki": {
+      "file": "adamchuki_ukraine.json",
+      "days": 365
+    },
+    "Uppsala": {
+      "file": "uppsala_sweden.json",
+      "days": 365
+    },
+    "Sumy": {
+      "file": "sumy_ukraine.json",
+      "days": 365
+    },
+    "Abborrbergsmossen": {
+      "file": "abborrbergsmossen_sweden.json",
+      "days": 365
+    },
+    "Odense": {
+      "file": "odense_denmark.json",
+      "days": 365
+    },
+    "Aclare": {
+      "file": "aclare_ireland.json",
+      "days": 365
+    },
+    "T Waar": {
+      "file": "t_waar_netherlands.json",
+      "days": 365
+    },
+    "Mannheim": {
+      "file": "mannheim_germany.json",
+      "days": 365
+    },
+    "Absdorf": {
+      "file": "absdorf_austria.json",
+      "days": 365
+    },
+    "Adancata": {
+      "file": "adancata_ukraine.json",
+      "days": 365
+    },
+    "Abbeville Saint Lucien": {
+      "file": "abbeville_saint_lucien_france.json",
+      "days": 365
+    },
+    "Abbeville Les Conflans": {
+      "file": "abbeville_les_conflans_france.json",
+      "days": 365
+    },
+    "Rotterdam Zuid": {
+      "file": "rotterdam_zuid_netherlands.json",
+      "days": 365
+    },
+    "Murmansk": {
+      "file": "murmansk_russia.json",
+      "days": 365
+    },
+    "Acone": {
+      "file": "acone_latvia.json",
+      "days": 365
+    },
+    "Rotterdam": {
+      "file": "rotterdam_netherlands.json",
+      "days": 365
+    },
+    "Abberud": {
+      "file": "abberud_sweden.json",
+      "days": 365
+    },
+    "Trondheim": {
+      "file": "trondheim_norway.json",
+      "days": 365
+    },
+    "Stavanger": {
+      "file": "stavanger_norway.json",
+      "days": 365
+    },
+    "Adamowa Gora": {
+      "file": "adamowa_gora_poland.json",
+      "days": 365
+    },
+    "Achonry": {
+      "file": "achonry_ireland.json",
+      "days": 365
+    },
+    "Aleksandrina": {
+      "file": "aleksandrina_belarus.json",
+      "days": 365
+    },
+    "Aakenusjarvi": {
+      "file": "aakenusjarvi_finland.json",
+      "days": 365
+    },
+    "Aantjebitt": {
+      "file": "aantjebitt_germany.json",
+      "days": 365
+    },
+    "Berlin": {
+      "file": "berlin_germany.json",
+      "days": 365
+    },
+    "Espoo": {
+      "file": "espoo_finland.json",
+      "days": 365
+    },
+    "Aalst": {
+      "file": "aalst_belgium.json",
+      "days": 365
+    },
+    "Adamczycha": {
+      "file": "adamczycha_poland.json",
+      "days": 365
+    },
+    "Riga West": {
+      "file": "riga_west_latvia.json",
+      "days": 365
+    },
+    "Omsk": {
+      "file": "omsk_russia.json",
+      "days": 365
+    },
+    "Airdrie": {
+      "file": "airdrie_canada.json",
+      "days": 365
+    },
+    "Abelkrogs": {
+      "file": "abelkrogs_latvia.json",
+      "days": 365
+    },
+    "Hammerfest": {
+      "file": "hammerfest_norway.json",
+      "days": 365
+    },
+    "Aavajarvi": {
+      "file": "aavajarvi_sweden.json",
+      "days": 365
+    },
+    "Aber Geirch": {
+      "file": "aber_geirch_uk.json",
+      "days": 365
+    },
+    "Aba": {
+      "file": "aba_russia.json",
+      "days": 365
+    },
+    "Abbots Ann": {
+      "file": "abbots_ann_uk.json",
+      "days": 365
+    },
+    "Sandefjord": {
+      "file": "sandefjord_norway.json",
+      "days": 365
+    },
+    "Wien Sudbahnhof": {
+      "file": "wien_sudbahnhof_austria.json",
+      "days": 365
+    },
+    "Aar Bach": {
+      "file": "aar_bach_germany.json",
+      "days": 365
+    },
+    "Abakan": {
+      "file": "abakan_russia.json",
+      "days": 365
+    },
+    "Dusseldorf": {
+      "file": "dusseldorf_germany.json",
+      "days": 365
+    },
+    "Abbey River": {
+      "file": "abbey_river_ireland.json",
+      "days": 365
+    },
+    "Aalborg Bugt": {
+      "file": "aalborg_bugt_denmark.json",
+      "days": 365
+    },
+    "Aasu": {
+      "file": "aasu_estonia.json",
+      "days": 365
+    },
+    "Abacksnas": {
+      "file": "abacksnas_sweden.json",
+      "days": 365
+    },
+    "Bolton": {
+      "file": "bolton_uk.json",
+      "days": 365
+    },
+    "Aabybro": {
+      "file": "aabybro_denmark.json",
+      "days": 365
+    },
+    "Abagur": {
+      "file": "abagur_russia.json",
+      "days": 365
+    },
+    "Aarhus": {
+      "file": "aarhus_denmark.json",
+      "days": 365
+    },
+    "Leeds": {
+      "file": "leeds_uk.json",
+      "days": 365
+    },
+    "S Heer Abtskerke": {
+      "file": "s_heer_abtskerke_netherlands.json",
+      "days": 365
+    },
+    "Rennes": {
+      "file": "rennes_france.json",
+      "days": 365
+    },
+    "T Veld": {
+      "file": "t_veld_netherlands.json",
+      "days": 365
+    },
+    "Aber Nant": {
+      "file": "aber_nant_uk.json",
+      "days": 365
+    },
+    "Melbu": {
+      "file": "melbu_norway.json",
+      "days": 365
+    },
+    "Ufa": {
+      "file": "ufa_russia.json",
+      "days": 365
+    },
+    "Ivye": {
+      "file": "ivye_belarus.json",
+      "days": 365
+    },
+    "Abbantorp": {
+      "file": "abbantorp_sweden.json",
+      "days": 365
+    },
+    "Ababkovo": {
+      "file": "ababkovo_russia.json",
+      "days": 365
+    },
+    "Vadso": {
+      "file": "vadso_norway.json",
+      "days": 365
+    },
+    "Kemi": {
+      "file": "kemi_finland.json",
+      "days": 365
+    },
+    "Abolkalni": {
+      "file": "abolkalni_latvia.json",
+      "days": 365
+    },
+    "Aalkorb": {
+      "file": "aalkorb_germany.json",
+      "days": 365
+    },
+    "Abbotsham": {
+      "file": "abbotsham_uk.json",
+      "days": 365
+    },
+    "Abbeville": {
+      "file": "abbeville_france.json",
+      "days": 365
+    },
+    "Wien Westbahnhof": {
+      "file": "wien_westbahnhof_austria.json",
+      "days": 365
+    },
+    "Absberg": {
+      "file": "absberg_austria.json",
+      "days": 365
+    },
+    "Drammen": {
+      "file": "drammen_norway.json",
+      "days": 365
+    },
+    "Jonkoping": {
+      "file": "jonkoping_sweden.json",
+      "days": 365
+    },
+    "Aareajoki": {
+      "file": "aareajoki_sweden.json",
+      "days": 365
+    },
+    "Amsterdam Centraal Station": {
+      "file": "amsterdam_centraal_station_netherlands.json",
+      "days": 365
+    },
+    "Liepajas Rajons": {
+      "file": "liepajas_rajons_latvia.json",
+      "days": 365
+    },
+    "Aasa": {
+      "file": "aasa_estonia.json",
+      "days": 365
+    },
+    "Adamek": {
+      "file": "adamek_poland.json",
+      "days": 365
+    },
+    "Malmo": {
+      "file": "malmo_sweden.json",
+      "days": 365
+    },
+    "Adamowicze": {
+      "file": "adamowicze_belarus.json",
+      "days": 365
+    },
+    "Aglaia": {
+      "file": "aglaia_czech-republic.json",
+      "days": 365
+    },
+    "Croydon": {
+      "file": "croydon_uk.json",
+      "days": 365
+    },
+    "Adamivka": {
+      "file": "adamivka_ukraine.json",
+      "days": 365
+    },
+    "Abacken": {
+      "file": "abacken_sweden.json",
+      "days": 365
+    },
+    "Abhainn Abhoca": {
+      "file": "abhainn_abhoca_ireland.json",
+      "days": 365
+    },
+    "Adama": {
+      "file": "adama_poland.json",
+      "days": 365
+    },
+    "Birmingham": {
+      "file": "birmingham_uk.json",
+      "days": 365
+    },
+    "Rigas Udenskratuve": {
+      "file": "rigas_udenskratuve_latvia.json",
+      "days": 365
+    },
+    "Abitelu Ezers": {
+      "file": "abitelu_ezers_latvia.json",
+      "days": 365
+    },
+    "Stockholms Lan": {
+      "file": "stockholms_lan_sweden.json",
+      "days": 365
+    },
+    "Aaigem": {
+      "file": "aaigem_belgium.json",
+      "days": 365
+    },
+    "Vantaankoski": {
+      "file": "vantaankoski_finland.json",
+      "days": 365
+    },
+    "Abrupi": {
+      "file": "abrupi_latvia.json",
+      "days": 365
+    },
+    "A Chailleach": {
+      "file": "a_chailleach_uk.json",
+      "days": 365
+    },
+    "Stockholms Sodra": {
+      "file": "stockholms_sodra_sweden.json",
+      "days": 365
+    },
+    "Aboli": {
+      "file": "aboli_latvia.json",
+      "days": 365
+    },
+    "Groningen": {
+      "file": "groningen_netherlands.json",
+      "days": 365
+    },
+    "Inverness": {
+      "file": "inverness_uk.json",
+      "days": 365
+    },
+    "Aasee": {
+      "file": "aasee_germany.json",
+      "days": 365
+    },
+    "Larvik": {
+      "file": "larvik_norway.json",
+      "days": 365
+    },
+    "Karlstads Kommun": {
+      "file": "karlstads_kommun_sweden.json",
+      "days": 365
+    },
+    "Albrechtice": {
+      "file": "albrechtice_czech-republic.json",
+      "days": 365
+    },
+    "Turnhout": {
+      "file": "turnhout_belgium.json",
+      "days": 365
+    },
+    "Volgograd": {
+      "file": "volgograd_russia.json",
+      "days": 365
+    },
+    "Aerlaekur": {
+      "file": "aerlaekur_iceland.json",
+      "days": 365
+    },
+    "Aalfang": {
+      "file": "aalfang_austria.json",
+      "days": 365
+    },
+    "Vancouver": {
+      "file": "vancouver_canada.json",
+      "days": 365
+    },
+    "Abava": {
+      "file": "abava_latvia.json",
+      "days": 365
+    },
     "Petersburg": {
       "file": "petersburg_russia.json",
       "days": 365
     },
-    "Adler": {
-      "file": "adler_czech-republic.json",
+    "Aberdeen": {
+      "file": "aberdeen_uk.json",
+      "days": 365
+    },
+    "Arnhem": {
+      "file": "arnhem_netherlands.json",
+      "days": 365
+    },
+    "Esbjerg Kommune": {
+      "file": "esbjerg_kommune_denmark.json",
+      "days": 365
+    },
+    "Aasumetsa": {
+      "file": "aasumetsa_estonia.json",
+      "days": 365
+    },
+    "Abbeylara": {
+      "file": "abbeylara_ireland.json",
+      "days": 365
+    },
+    "Surrey": {
+      "file": "surrey_canada.json",
+      "days": 365
+    },
+    "Darmstadt": {
+      "file": "darmstadt_germany.json",
+      "days": 365
+    },
+    "Tarm": {
+      "file": "tarm_denmark.json",
+      "days": 365
+    },
+    "Luton": {
+      "file": "luton_uk.json",
+      "days": 365
+    },
+    "Saskatoon": {
+      "file": "saskatoon_canada.json",
+      "days": 365
+    },
+    "Abolnieki": {
+      "file": "abolnieki_latvia.json",
+      "days": 365
+    },
+    "Adamova Hora": {
+      "file": "adamova_hora_czech-republic.json",
+      "days": 365
+    },
+    "Abborrnas": {
+      "file": "abborrnas_sweden.json",
+      "days": 365
+    },
+    "Abelites": {
+      "file": "abelites_latvia.json",
+      "days": 365
+    },
+    "Aa Fjord": {
+      "file": "aa_fjord_norway.json",
+      "days": 365
+    },
+    "Ahnikov": {
+      "file": "ahnikov_czech-republic.json",
+      "days": 365
+    },
+    "Abbeyleix": {
+      "file": "abbeyleix_ireland.json",
+      "days": 365
+    },
+    "Saint Petersburg": {
+      "file": "saint_petersburg_russia.json",
+      "days": 365
+    },
+    "Frankfurt Am Main": {
+      "file": "frankfurt_am_main_germany.json",
+      "days": 365
+    },
+    "Ejwidowicze": {
+      "file": "ejwidowicze_belarus.json",
+      "days": 365
+    },
+    "Rigas Iurmala": {
+      "file": "rigas_iurmala_latvia.json",
+      "days": 365
+    },
+    "Aagaard": {
+      "file": "aagaard_denmark.json",
+      "days": 365
+    },
+    "A I Afjord": {
+      "file": "a_i_afjord_norway.json",
+      "days": 365
+    },
+    "Abols": {
+      "file": "abols_latvia.json",
+      "days": 365
+    },
+    "Adampol": {
+      "file": "adampol_ukraine.json",
+      "days": 365
+    },
+    "Bruxelles Capitale": {
+      "file": "bruxelles_capitale_belgium.json",
+      "days": 365
+    },
+    "Ab Lench": {
+      "file": "ab_lench_uk.json",
+      "days": 365
+    },
+    "A Adino": {
+      "file": "a_adino_russia.json",
+      "days": 365
+    },
+    "Abernethy": {
+      "file": "abernethy_canada.json",
+      "days": 365
+    },
+    "Helsingborgs Kommun": {
+      "file": "helsingborgs_kommun_sweden.json",
+      "days": 365
+    },
+    "Aart": {
+      "file": "aart_belgium.json",
+      "days": 365
+    },
+    "Aa Hojrup": {
+      "file": "aa_hojrup_denmark.json",
+      "days": 365
+    },
+    "Aartojarvi": {
+      "file": "aartojarvi_finland.json",
+      "days": 365
+    },
+    "Abborrholmberget": {
+      "file": "abborrholmberget_sweden.json",
+      "days": 365
+    },
+    "Albanel": {
+      "file": "albanel_canada.json",
+      "days": 365
+    },
+    "Liepajas Ezers": {
+      "file": "liepajas_ezers_latvia.json",
       "days": 365
     },
     "Katowice Ligota": {
@@ -2401,1063 +2077,1383 @@
       "file": "abelnieki_latvia.json",
       "days": 365
     },
-    "Stockholm North": {
-      "file": "stockholm_north_sweden.json",
-      "days": 365
-    },
-    "Adamowicze": {
-      "file": "adamowicze_belarus.json",
-      "days": 365
-    },
-    "Akmola": {
-      "file": "akmola_kazakhstan.json",
-      "days": 365
-    },
-    "Goteborgs Kommun": {
-      "file": "goteborgs_kommun_sweden.json",
-      "days": 365
-    },
-    "Seattle": {
-      "file": "seattle_usa.json",
-      "days": 365
-    },
-    "Trondheim": {
-      "file": "trondheim_norway.json",
-      "days": 365
-    },
-    "Aalisjoki": {
-      "file": "aalisjoki_finland.json",
-      "days": 365
-    },
-    "Achonry": {
-      "file": "achonry_ireland.json",
-      "days": 365
-    },
-    "T Harde": {
-      "file": "t_harde_netherlands.json",
-      "days": 365
-    },
-    "Aaninen": {
-      "file": "aaninen_russia.json",
-      "days": 365
-    },
-    "Nykobing Falster Kommune": {
-      "file": "nykobing_falster_kommune_denmark.json",
-      "days": 365
-    },
-    "A Chailleach": {
-      "file": "a_chailleach_uk.json",
-      "days": 365
-    },
-    "Malmo Kommun": {
-      "file": "malmo_kommun_sweden.json",
-      "days": 365
-    },
-    "Aalbeek": {
-      "file": "aalbeek_netherlands.json",
-      "days": 365
-    },
-    "Ipa": {
-      "file": "ipa_belarus.json",
-      "days": 365
-    },
-    "Abeles": {
-      "file": "abeles_latvia.json",
-      "days": 365
-    },
-    "Dnepropetrovsk": {
-      "file": "dnepropetrovsk_ukraine.json",
-      "days": 365
-    },
-    "Abainville": {
-      "file": "abainville_france.json",
-      "days": 365
-    },
-    "Aber Fan": {
-      "file": "aber_fan_uk.json",
-      "days": 365
-    },
-    "Riga Strand": {
-      "file": "riga_strand_latvia.json",
-      "days": 365
-    },
-    "Leeds": {
-      "file": "leeds_uk.json",
-      "days": 365
-    },
-    "S Heerenhoek": {
-      "file": "s_heerenhoek_netherlands.json",
-      "days": 365
-    },
-    "Kazan": {
-      "file": "kazan_russia.json",
-      "days": 365
-    },
-    "Kortrijk": {
-      "file": "kortrijk_belgium.json",
-      "days": 365
-    },
-    "Wienau": {
-      "file": "wienau_austria.json",
-      "days": 365
-    },
-    "Aa Fjord": {
-      "file": "aa_fjord_norway.json",
-      "days": 365
-    },
-    "Bremen": {
-      "file": "bremen_germany.json",
-      "days": 365
-    },
-    "Gdansk Glowny": {
-      "file": "gdansk_glowny_poland.json",
-      "days": 365
-    },
-    "Abaujvar": {
-      "file": "abaujvar_hungary.json",
-      "days": 365
-    },
-    "Kursk": {
-      "file": "kursk_russia.json",
-      "days": 365
-    },
-    "Aalderveld": {
-      "file": "aalderveld_netherlands.json",
-      "days": 365
-    },
-    "Stockholms Kommun": {
-      "file": "stockholms_kommun_sweden.json",
-      "days": 365
-    },
-    "Adamovo": {
-      "file": "adamovo_belarus.json",
-      "days": 365
-    },
-    "Abborrkassen": {
-      "file": "abborrkassen_sweden.json",
-      "days": 365
-    },
-    "Manchester": {
-      "file": "manchester_uk.json",
-      "days": 365
-    },
-    "Rotterdam Hofplein": {
-      "file": "rotterdam_hofplein_netherlands.json",
-      "days": 365
-    },
-    "Portland": {
-      "file": "portland_usa.json",
-      "days": 365
-    },
-    "Aalbroek": {
-      "file": "aalbroek_belgium.json",
-      "days": 365
-    },
-    "Alameda": {
-      "file": "alameda_canada.json",
-      "days": 365
-    },
-    "Stockholms Sodra": {
-      "file": "stockholms_sodra_sweden.json",
-      "days": 365
-    },
-    "Albertin": {
-      "file": "albertin_belarus.json",
-      "days": 365
-    },
-    "Akureyri": {
-      "file": "akureyri_iceland.json",
-      "days": 365
-    },
-    "Adamierz": {
-      "file": "adamierz_poland.json",
-      "days": 365
-    },
-    "Albrechtice U Rymarova": {
-      "file": "albrechtice_u_rymarova_czech-republic.json",
-      "days": 365
-    },
-    "Rigas Rajons": {
-      "file": "rigas_rajons_latvia.json",
-      "days": 365
-    },
-    "Stockholms Lan": {
-      "file": "stockholms_lan_sweden.json",
-      "days": 365
-    },
-    "Youghal Bay": {
-      "file": "youghal_bay_ireland.json",
-      "days": 365
-    },
-    "Abya": {
-      "file": "abya_estonia.json",
-      "days": 365
-    },
-    "Abak": {
-      "file": "abak_russia.json",
-      "days": 365
-    },
-    "Abazovka": {
-      "file": "abazovka_ukraine.json",
-      "days": 365
-    },
-    "Abbotstown": {
-      "file": "abbotstown_ireland.json",
-      "days": 365
-    },
-    "Januki": {
-      "file": "januki_belarus.json",
-      "days": 365
-    },
-    "Admiral": {
-      "file": "admiral_canada.json",
-      "days": 365
-    },
-    "Bruxelles Capitale": {
-      "file": "bruxelles_capitale_belgium.json",
-      "days": 365
-    },
-    "Bonn": {
-      "file": "bonn_germany.json",
+    "Miskolc": {
+      "file": "miskolc_hungary.json",
       "days": 365
     },
     "Alberovice": {
       "file": "alberovice_czech-republic.json",
       "days": 365
     },
-    "Aaigem": {
-      "file": "aaigem_belgium.json",
+    "Abbey Hill": {
+      "file": "abbey_hill_ireland.json",
       "days": 365
     },
-    "Darhan": {
-      "file": "darhan_mongolia.json",
-      "days": 365
-    },
-    "Herning Kommune": {
-      "file": "herning_kommune_denmark.json",
-      "days": 365
-    },
-    "Tallinna Reid": {
-      "file": "tallinna_reid_estonia.json",
-      "days": 365
-    },
-    "Acadia Valley": {
-      "file": "acadia_valley_canada.json",
-      "days": 365
-    },
-    "Sarcelles": {
-      "file": "sarcelles_france.json",
-      "days": 365
-    },
-    "Cork Harbour": {
-      "file": "cork_harbour_ireland.json",
-      "days": 365
-    },
-    "Brighton": {
-      "file": "brighton_uk.json",
-      "days": 365
-    },
-    "Adampol": {
-      "file": "adampol_ukraine.json",
-      "days": 365
-    },
-    "Abbotsford": {
-      "file": "abbotsford_canada.json",
-      "days": 365
-    },
-    "Aaby": {
-      "file": "aaby_denmark.json",
-      "days": 365
-    },
-    "S Heerenbroek": {
-      "file": "s_heerenbroek_netherlands.json",
-      "days": 365
-    },
-    "Abba Bach": {
-      "file": "abba_bach_germany.json",
-      "days": 365
-    },
-    "Adare Manor": {
-      "file": "adare_manor_ireland.json",
-      "days": 365
-    },
-    "Aareavaara": {
-      "file": "aareavaara_sweden.json",
-      "days": 365
-    },
-    "Coventry": {
-      "file": "coventry_uk.json",
-      "days": 365
-    },
-    "Adamenka": {
-      "file": "adamenka_belarus.json",
-      "days": 365
-    },
-    "Adamova": {
-      "file": "adamova_belarus.json",
-      "days": 365
-    },
-    "Birmingham": {
-      "file": "birmingham_uk.json",
-      "days": 365
-    },
-    "Narva": {
-      "file": "narva_estonia.json",
-      "days": 365
-    },
-    "Vienna": {
-      "file": "vienna_austria.json",
-      "days": 365
-    },
-    "Argenteuil": {
-      "file": "argenteuil_france.json",
+    "Abaujdevecser": {
+      "file": "abaujdevecser_hungary.json",
       "days": 365
     },
     "Lodz Fabryczna": {
       "file": "lodz_fabryczna_poland.json",
       "days": 365
     },
-    "Lodz": {
-      "file": "lodz_poland.json",
+    "Aalter": {
+      "file": "aalter_belgium.json",
       "days": 365
     },
-    "Keflavik": {
-      "file": "keflavik_iceland.json",
+    "Dublin Bar": {
+      "file": "dublin_bar_ireland.json",
       "days": 365
     },
-    "Adamow Stary": {
-      "file": "adamow_stary_poland.json",
+    "Eskilstuna Kommun": {
+      "file": "eskilstuna_kommun_sweden.json",
       "days": 365
     },
-    "Abbey": {
-      "file": "abbey_canada.json",
+    "Abbotstown": {
+      "file": "abbotstown_ireland.json",
       "days": 365
     },
-    "Stavanger": {
-      "file": "stavanger_norway.json",
+    "Parnu": {
+      "file": "parnu_estonia.json",
       "days": 365
     },
-    "Arnhem": {
-      "file": "arnhem_netherlands.json",
+    "Cork": {
+      "file": "cork_ireland.json",
       "days": 365
     },
-    "Abay Audany": {
-      "file": "abay_audany_kazakhstan.json",
-      "days": 365
-    },
-    "Abborrasen": {
-      "file": "abborrasen_sweden.json",
-      "days": 365
-    },
-    "Aatsajoki": {
-      "file": "aatsajoki_finland.json",
-      "days": 365
-    },
-    "Abtsdorf": {
-      "file": "abtsdorf_czech-republic.json",
-      "days": 365
-    },
-    "Abaga": {
-      "file": "abaga_russia.json",
-      "days": 365
-    },
-    "Aabol": {
-      "file": "aabol_denmark.json",
-      "days": 365
-    },
-    "Abaujszantoi Furdo Vasuti Megallohely": {
-      "file": "abaujszantoi_furdo_vasuti_megallohely_hungary.json",
-      "days": 365
-    },
-    "Aa Fjorden": {
-      "file": "aa_fjorden_norway.json",
-      "days": 365
-    },
-    "Northampton": {
-      "file": "northampton_uk.json",
-      "days": 365
-    },
-    "Bialystok Fabryczny": {
-      "file": "bialystok_fabryczny_poland.json",
-      "days": 365
-    },
-    "Achatzberg": {
-      "file": "achatzberg_austria.json",
-      "days": 365
-    },
-    "Cardiff": {
-      "file": "cardiff_uk.json",
-      "days": 365
-    },
-    "Antwerpen": {
-      "file": "antwerpen_belgium.json",
+    "Pavlodar": {
+      "file": "pavlodar_kazakhstan.json",
       "days": 365
     },
     "Aarna": {
       "file": "aarna_estonia.json",
       "days": 365
     },
-    "Abbey View": {
-      "file": "abbey_view_ireland.json",
-      "days": 365
-    },
-    "Prague": {
-      "file": "prague_czech-republic.json",
-      "days": 365
-    },
-    "Abbeytown": {
-      "file": "abbeytown_ireland.json",
-      "days": 365
-    },
-    "Saint Petersburg": {
-      "file": "saint_petersburg_russia.json",
-      "days": 365
-    },
-    "Abolnieki": {
-      "file": "abolnieki_latvia.json",
-      "days": 365
-    },
-    "Karaganda": {
-      "file": "karaganda_kazakhstan.json",
-      "days": 365
-    },
-    "Abelkrogs": {
-      "file": "abelkrogs_latvia.json",
-      "days": 365
-    },
-    "A I Afjord": {
-      "file": "a_i_afjord_norway.json",
-      "days": 365
-    },
-    "Aabyhoj": {
-      "file": "aabyhoj_denmark.json",
-      "days": 365
-    },
-    "Karlstads Kommun": {
-      "file": "karlstads_kommun_sweden.json",
-      "days": 365
-    },
-    "Akriony": {
-      "file": "akriony_belarus.json",
-      "days": 365
-    },
-    "Elsk": {
-      "file": "elsk_belarus.json",
-      "days": 365
-    },
-    "Kharkiv": {
-      "file": "kharkiv_ukraine.json",
-      "days": 365
-    },
-    "A Ghlas Bheinn": {
-      "file": "a_ghlas_bheinn_uk.json",
-      "days": 365
-    },
-    "Abbeylough River": {
-      "file": "abbeylough_river_ireland.json",
-      "days": 365
-    },
-    "Esbjerg": {
-      "file": "esbjerg_denmark.json",
-      "days": 365
-    },
-    "Kajaani": {
-      "file": "kajaani_finland.json",
-      "days": 365
-    },
-    "Krakow": {
-      "file": "krakow_poland.json",
-      "days": 365
-    },
-    "Narvik": {
-      "file": "narvik_norway.json",
-      "days": 365
-    },
-    "Abstetten": {
-      "file": "abstetten_austria.json",
-      "days": 365
-    },
-    "Achremowce": {
-      "file": "achremowce_belarus.json",
-      "days": 365
-    },
-    "Achadh Ur": {
-      "file": "achadh_ur_ireland.json",
-      "days": 365
-    },
-    "Aarlahti": {
-      "file": "aarlahti_finland.json",
-      "days": 365
-    },
-    "Aach": {
-      "file": "aach_germany.json",
-      "days": 365
-    },
-    "Abbecourt": {
-      "file": "abbecourt_france.json",
-      "days": 365
-    },
-    "Namsos": {
-      "file": "namsos_norway.json",
-      "days": 365
-    },
-    "St. Johns": {
-      "file": "st._johns_canada.json",
-      "days": 365
-    },
-    "Aang": {
-      "file": "aang_sweden.json",
-      "days": 365
-    },
-    "Brest": {
-      "file": "brest_france.json",
-      "days": 365
-    },
-    "Olafsvik": {
-      "file": "olafsvik_iceland.json",
-      "days": 365
-    },
-    "Dortmund": {
-      "file": "dortmund_germany.json",
-      "days": 365
-    },
-    "Adamov": {
-      "file": "adamov_ukraine.json",
-      "days": 365
-    },
-    "Skien": {
-      "file": "skien_norway.json",
-      "days": 365
-    },
-    "Hamburg": {
-      "file": "hamburg_germany.json",
-      "days": 365
-    },
-    "Abbots Worthy": {
-      "file": "abbots_worthy_uk.json",
-      "days": 365
-    },
-    "Aabo": {
-      "file": "aabo_denmark.json",
-      "days": 365
-    },
-    "Aachen Rothe Erde": {
-      "file": "aachen_rothe_erde_germany.json",
-      "days": 365
-    },
-    "Zoetermeer": {
-      "file": "zoetermeer_netherlands.json",
-      "days": 365
-    },
-    "Abdie": {
-      "file": "abdie_uk.json",
-      "days": 365
-    },
-    "Szczecin Pomorzany": {
-      "file": "szczecin_pomorzany_poland.json",
-      "days": 365
-    },
-    "Abbotts Ann": {
-      "file": "abbotts_ann_uk.json",
-      "days": 365
-    },
-    "Wroclaw": {
-      "file": "wroclaw_poland.json",
-      "days": 365
-    },
-    "Lvyv": {
-      "file": "lvyv_ukraine.json",
-      "days": 365
-    },
-    "Aarrekangas": {
-      "file": "aarrekangas_finland.json",
-      "days": 365
-    },
-    "Abborrholmberget": {
-      "file": "abborrholmberget_sweden.json",
-      "days": 365
-    },
-    "Blackburn": {
-      "file": "blackburn_uk.json",
-      "days": 365
-    },
-    "Volgograd": {
-      "file": "volgograd_russia.json",
-      "days": 365
-    },
-    "Cahersiveen": {
-      "file": "cahersiveen_ireland.json",
-      "days": 365
-    },
-    "Abava": {
-      "file": "abava_latvia.json",
-      "days": 365
-    },
-    "Abbey Head": {
-      "file": "abbey_head_uk.json",
-      "days": 365
-    },
-    "Nijmegen": {
-      "file": "nijmegen_netherlands.json",
-      "days": 365
-    },
-    "Aklavik": {
-      "file": "aklavik_canada.json",
-      "days": 365
-    },
-    "Aal See": {
-      "file": "aal_see_germany.json",
-      "days": 365
-    },
-    "S Heerenberg": {
-      "file": "s_heerenberg_netherlands.json",
-      "days": 365
-    },
-    "Abols": {
-      "file": "abols_latvia.json",
-      "days": 365
-    },
-    "Oslo": {
-      "file": "oslo_norway.json",
-      "days": 365
-    },
-    "Limerick": {
-      "file": "limerick_ireland.json",
-      "days": 365
-    },
-    "Esmony": {
-      "file": "esmony_belarus.json",
-      "days": 365
-    },
-    "Aale": {
-      "file": "aale_denmark.json",
-      "days": 365
-    },
-    "Cork Lough": {
-      "file": "cork_lough_ireland.json",
-      "days": 365
-    },
     "Alberitz": {
       "file": "alberitz_czech-republic.json",
       "days": 365
     },
-    "Abakonovo": {
-      "file": "abakonovo_russia.json",
+    "Aavakaiju": {
+      "file": "aavakaiju_sweden.json",
       "days": 365
     },
-    "Abitelu Ezers": {
-      "file": "abitelu_ezers_latvia.json",
+    "Viborg": {
+      "file": "viborg_denmark.json",
       "days": 365
     },
-    "Wienerhohe": {
-      "file": "wienerhohe_austria.json",
+    "Aervik": {
+      "file": "aervik_iceland.json",
       "days": 365
     },
-    "Aalkastenfliess": {
-      "file": "aalkastenfliess_germany.json",
+    "Minskaya Oblast": {
+      "file": "minskaya_oblast_belarus.json",
       "days": 365
     },
-    "Abbey House": {
-      "file": "abbey_house_ireland.json",
+    "Aachen Merzbruck": {
+      "file": "aachen_merzbruck_germany.json",
       "days": 365
     },
-    "Ahnikov": {
-      "file": "ahnikov_czech-republic.json",
+    "Rovaniemi": {
+      "file": "rovaniemi_finland.json",
       "days": 365
     },
-    "Vatnajokull": {
-      "file": "vatnajokull_iceland.json",
+    "Albersdorf": {
+      "file": "albersdorf_czech-republic.json",
       "days": 365
     },
-    "Espoo": {
-      "file": "espoo_finland.json",
+    "Abelkalni": {
+      "file": "abelkalni_latvia.json",
       "days": 365
     },
-    "Plzen": {
-      "file": "plzen_czech-republic.json",
+    "Abschlag": {
+      "file": "abschlag_austria.json",
       "days": 365
     },
-    "Aichen": {
-      "file": "aichen_czech-republic.json",
+    "Vilnius": {
+      "file": "vilnius_lithuania.json",
       "days": 365
     },
-    "Abaujalpar": {
-      "file": "abaujalpar_hungary.json",
+    "Invercargill": {
+      "file": "invercargill_new-zealand.json",
       "days": 365
     },
-    "Galway Harbour": {
-      "file": "galway_harbour_ireland.json",
+    "Rouen": {
+      "file": "rouen_france.json",
       "days": 365
     },
-    "Kemi": {
-      "file": "kemi_finland.json",
+    "Aarsele": {
+      "file": "aarsele_belgium.json",
       "days": 365
     },
-    "Aasmae": {
-      "file": "aasmae_estonia.json",
-      "days": 365
-    },
-    "Abaruni": {
-      "file": "abaruni_latvia.json",
-      "days": 365
-    },
-    "Albertsthal": {
-      "file": "albertsthal_czech-republic.json",
-      "days": 365
-    },
-    "Leicester": {
-      "file": "leicester_uk.json",
-      "days": 365
-    },
-    "Qualitzen": {
-      "file": "qualitzen_czech-republic.json",
-      "days": 365
-    },
-    "Belfast": {
-      "file": "belfast_uk.json",
-      "days": 365
-    },
-    "Aartoluoto": {
-      "file": "aartoluoto_russia.json",
-      "days": 365
-    },
-    "Aalstgoed": {
-      "file": "aalstgoed_belgium.json",
-      "days": 365
-    },
-    "Achill Sound": {
-      "file": "achill_sound_ireland.json",
-      "days": 365
-    },
-    "Liepajas Ezers": {
-      "file": "liepajas_ezers_latvia.json",
-      "days": 365
-    },
-    "Aa Skerry": {
-      "file": "aa_skerry_uk.json",
-      "days": 365
-    },
-    "Abakano Perevoz": {
-      "file": "abakano_perevoz_russia.json",
-      "days": 365
-    },
-    "Abancourt": {
-      "file": "abancourt_france.json",
-      "days": 365
-    },
-    "Stockholm": {
-      "file": "stockholm_sweden.json",
-      "days": 365
-    },
-    "Essen": {
-      "file": "essen_germany.json",
-      "days": 365
-    },
-    "Acone": {
-      "file": "acone_latvia.json",
-      "days": 365
-    },
-    "Aerlaekur": {
-      "file": "aerlaekur_iceland.json",
-      "days": 365
-    },
-    "Abaucourt Les Souppleville": {
-      "file": "abaucourt_les_souppleville_france.json",
-      "days": 365
-    },
-    "Aarholmanluoto": {
-      "file": "aarholmanluoto_finland.json",
-      "days": 365
-    },
-    "Aksiutowo": {
-      "file": "aksiutowo_belarus.json",
-      "days": 365
-    },
-    "Kuybyshev": {
-      "file": "kuybyshev_russia.json",
-      "days": 365
-    },
-    "Mitry Mory": {
-      "file": "mitry_mory_france.json",
-      "days": 365
-    },
-    "Hannover": {
-      "file": "hannover_germany.json",
-      "days": 365
-    },
-    "Aasleagh": {
-      "file": "aasleagh_ireland.json",
-      "days": 365
-    },
-    "Vordingborg Kommune": {
-      "file": "vordingborg_kommune_denmark.json",
-      "days": 365
-    },
-    "Tampere": {
-      "file": "tampere_finland.json",
-      "days": 365
-    },
-    "Aalbaek": {
-      "file": "aalbaek_denmark.json",
-      "days": 365
-    },
-    "Aabenraa Kommune": {
-      "file": "aabenraa_kommune_denmark.json",
-      "days": 365
-    },
-    "Miskolc": {
-      "file": "miskolc_hungary.json",
-      "days": 365
-    },
-    "Limerick Bridge": {
-      "file": "limerick_bridge_ireland.json",
-      "days": 365
-    },
-    "Albrechtice Nad Orlici": {
-      "file": "albrechtice_nad_orlici_czech-republic.json",
-      "days": 365
-    },
-    "Tarm": {
-      "file": "tarm_denmark.json",
-      "days": 365
-    },
-    "Katowice": {
-      "file": "katowice_poland.json",
-      "days": 365
-    },
-    "Aakenusjoki": {
-      "file": "aakenusjoki_finland.json",
-      "days": 365
-    },
-    "Aavere": {
-      "file": "aavere_estonia.json",
-      "days": 365
-    },
-    "T Waar": {
-      "file": "t_waar_netherlands.json",
-      "days": 365
-    },
-    "A Beek": {
-      "file": "a_beek_netherlands.json",
-      "days": 365
-    },
-    "Aalisjarvi": {
-      "file": "aalisjarvi_finland.json",
-      "days": 365
-    },
-    "Abwinden": {
-      "file": "abwinden_austria.json",
-      "days": 365
-    },
-    "Abbeyfeale": {
-      "file": "abbeyfeale_ireland.json",
-      "days": 365
-    },
-    "Abberud": {
-      "file": "abberud_sweden.json",
-      "days": 365
-    },
-    "Strasbourg": {
-      "file": "strasbourg_france.json",
-      "days": 365
-    },
-    "Abacka": {
-      "file": "abacka_sweden.json",
-      "days": 365
-    },
-    "Liverpool": {
-      "file": "liverpool_uk.json",
-      "days": 365
-    },
-    "Helsingborgs Kommun": {
-      "file": "helsingborgs_kommun_sweden.json",
-      "days": 365
-    },
-    "La Courneuve": {
-      "file": "la_courneuve_france.json",
-      "days": 365
-    },
-    "Chelyabinsk 70": {
-      "file": "chelyabinsk_70_russia.json",
-      "days": 365
-    },
-    "Esbjerg Kommune": {
-      "file": "esbjerg_kommune_denmark.json",
-      "days": 365
-    },
-    "Liege": {
-      "file": "liege_belgium.json",
-      "days": 365
-    },
-    "Abaja": {
-      "file": "abaja_estonia.json",
-      "days": 365
-    },
-    "Wien Westbahnhof": {
-      "file": "wien_westbahnhof_austria.json",
-      "days": 365
-    },
-    "Yekaterinburg": {
-      "file": "yekaterinburg_russia.json",
-      "days": 365
-    },
-    "Hammerfest": {
-      "file": "hammerfest_norway.json",
-      "days": 365
-    },
-    "Albanel": {
-      "file": "albanel_canada.json",
-      "days": 365
-    },
-    "Abschermeningken": {
-      "file": "abschermeningken_poland.json",
-      "days": 365
-    },
-    "Kristiansand": {
-      "file": "kristiansand_norway.json",
-      "days": 365
-    },
-    "Aalbaek Havn": {
-      "file": "aalbaek_havn_denmark.json",
-      "days": 365
-    },
-    "Abaimovo": {
-      "file": "abaimovo_russia.json",
-      "days": 365
-    },
-    "A Ghairbhe": {
-      "file": "a_ghairbhe_uk.json",
-      "days": 365
-    },
-    "A L Assaint": {
-      "file": "a_l_assaint_belgium.json",
-      "days": 365
-    },
-    "Bochum": {
-      "file": "bochum_germany.json",
-      "days": 365
-    },
-    "Abbots Ripton": {
-      "file": "abbots_ripton_uk.json",
-      "days": 365
-    },
-    "Luton": {
-      "file": "luton_uk.json",
-      "days": 365
-    },
-    "Brno Region": {
-      "file": "brno_region_czech-republic.json",
-      "days": 365
-    },
-    "Aabenraa": {
-      "file": "aabenraa_denmark.json",
-      "days": 365
-    },
-    "Dordrecht": {
-      "file": "dordrecht_netherlands.json",
+    "Roskilde": {
+      "file": "roskilde_denmark.json",
       "days": 365
     },
     "Aclare House": {
       "file": "aclare_house_ireland.json",
       "days": 365
     },
-    "Espoonlahti": {
-      "file": "espoonlahti_finland.json",
+    "Abazovka": {
+      "file": "abazovka_ukraine.json",
       "days": 365
     },
-    "Adaka": {
-      "file": "adaka_estonia.json",
+    "Abberton": {
+      "file": "abberton_uk.json",
       "days": 365
     },
-    "Adalbol": {
-      "file": "adalbol_iceland.json",
+    "Adamenka": {
+      "file": "adamenka_belarus.json",
       "days": 365
     },
-    "Vadso": {
-      "file": "vadso_norway.json",
+    "Amsterdam": {
+      "file": "amsterdam_netherlands.json",
+      "days": 365
+    },
+    "Abro": {
+      "file": "abro_estonia.json",
+      "days": 365
+    },
+    "Lvyv": {
+      "file": "lvyv_ukraine.json",
+      "days": 365
+    },
+    "Brugge": {
+      "file": "brugge_belgium.json",
+      "days": 365
+    },
+    "Qualitzen": {
+      "file": "qualitzen_czech-republic.json",
+      "days": 365
+    },
+    "Youghal": {
+      "file": "youghal_ireland.json",
+      "days": 365
+    },
+    "Keflavik": {
+      "file": "keflavik_iceland.json",
+      "days": 365
+    },
+    "Abbots Lench": {
+      "file": "abbots_lench_uk.json",
+      "days": 365
+    },
+    "La Courneuve": {
+      "file": "la_courneuve_france.json",
+      "days": 365
+    },
+    "Ottawa": {
+      "file": "ottawa_canada.json",
+      "days": 365
+    },
+    "Yekaterinburg": {
+      "file": "yekaterinburg_russia.json",
+      "days": 365
+    },
+    "Oulu": {
+      "file": "oulu_finland.json",
+      "days": 365
+    },
+    "Aboltini": {
+      "file": "aboltini_latvia.json",
+      "days": 365
+    },
+    "Aachen Rothe Erde": {
+      "file": "aachen_rothe_erde_germany.json",
+      "days": 365
+    },
+    "Aar": {
+      "file": "aar_germany.json",
+      "days": 365
+    },
+    "Albertin": {
+      "file": "albertin_belarus.json",
+      "days": 365
+    },
+    "Aanekoski": {
+      "file": "aanekoski_finland.json",
+      "days": 365
+    },
+    "Faskrudsfjordur": {
+      "file": "faskrudsfjordur_iceland.json",
+      "days": 365
+    },
+    "Mons": {
+      "file": "mons_belgium.json",
+      "days": 365
+    },
+    "Ahorn": {
+      "file": "ahorn_czech-republic.json",
+      "days": 365
+    },
+    "Abtsroth": {
+      "file": "abtsroth_czech-republic.json",
+      "days": 365
+    },
+    "Alber": {
+      "file": "alber_czech-republic.json",
+      "days": 365
+    },
+    "Albrechticky": {
+      "file": "albrechticky_czech-republic.json",
+      "days": 365
+    },
+    "Aasmae": {
+      "file": "aasmae_estonia.json",
+      "days": 365
+    },
+    "Albertslund Kommune": {
+      "file": "albertslund_kommune_denmark.json",
+      "days": 365
+    },
+    "Adolfov": {
+      "file": "adolfov_czech-republic.json",
+      "days": 365
+    },
+    "Alameda": {
+      "file": "alameda_canada.json",
+      "days": 365
+    },
+    "Aaholmi": {
+      "file": "aaholmi_finland.json",
+      "days": 365
+    },
+    "A Hojrup": {
+      "file": "a_hojrup_denmark.json",
+      "days": 365
+    },
+    "Aalesund": {
+      "file": "aalesund_norway.json",
+      "days": 365
+    },
+    "Youghal Bay": {
+      "file": "youghal_bay_ireland.json",
+      "days": 365
+    },
+    "Antwerpen": {
+      "file": "antwerpen_belgium.json",
+      "days": 365
+    },
+    "Ostrava Zabreh": {
+      "file": "ostrava_zabreh_czech-republic.json",
+      "days": 365
+    },
+    "Olomouc": {
+      "file": "olomouc_czech-republic.json",
+      "days": 365
+    },
+    "Abya": {
+      "file": "abya_estonia.json",
+      "days": 365
+    },
+    "Acadia Valley": {
+      "file": "acadia_valley_canada.json",
+      "days": 365
+    },
+    "Aadal": {
+      "file": "aadal_denmark.json",
+      "days": 365
+    },
+    "Aarbach": {
+      "file": "aarbach_germany.json",
+      "days": 365
+    },
+    "Aalstgoed": {
+      "file": "aalstgoed_belgium.json",
+      "days": 365
+    },
+    "Aakilde": {
+      "file": "aakilde_denmark.json",
+      "days": 365
+    },
+    "Kristiansund": {
+      "file": "kristiansund_norway.json",
+      "days": 365
+    },
+    "Essen": {
+      "file": "essen_germany.json",
+      "days": 365
+    },
+    "Kazan": {
+      "file": "kazan_russia.json",
+      "days": 365
+    },
+    "Aalbach": {
+      "file": "aalbach_poland.json",
       "days": 365
     },
     "Ushuaia": {
       "file": "ushuaia_argentina.json",
       "days": 365
     },
-    "Abacken": {
-      "file": "abacken_sweden.json",
+    "Aang": {
+      "file": "aang_sweden.json",
       "days": 365
     },
-    "Abaujszanto": {
-      "file": "abaujszanto_hungary.json",
+    "Aarbergen": {
+      "file": "aarbergen_germany.json",
       "days": 365
     },
-    "T Goy": {
-      "file": "t_goy_netherlands.json",
+    "Abbeydorney": {
+      "file": "abbeydorney_ireland.json",
       "days": 365
     },
-    "Aalkistensee": {
-      "file": "aalkistensee_germany.json",
+    "Afrettara": {
+      "file": "afrettara_iceland.json",
       "days": 365
     },
-    "Arendal": {
-      "file": "arendal_norway.json",
+    "Abbeyshrule": {
+      "file": "abbeyshrule_ireland.json",
       "days": 365
     },
-    "Aburi": {
-      "file": "aburi_estonia.json",
+    "Abbey House": {
+      "file": "abbey_house_ireland.json",
       "days": 365
     },
-    "Aapajarvi": {
-      "file": "aapajarvi_finland.json",
+    "Aasukalda": {
+      "file": "aasukalda_estonia.json",
       "days": 365
     },
-    "A Chleit": {
-      "file": "a_chleit_uk.json",
+    "T Harde": {
+      "file": "t_harde_netherlands.json",
       "days": 365
     },
-    "Limerick Junction": {
-      "file": "limerick_junction_ireland.json",
+    "Lodz Kaliska": {
+      "file": "lodz_kaliska_poland.json",
+      "days": 365
+    },
+    "Punta Arenas": {
+      "file": "punta_arenas_chile.json",
+      "days": 365
+    },
+    "Albrechtsdorf": {
+      "file": "albrechtsdorf_czech-republic.json",
+      "days": 365
+    },
+    "Ahrendorf": {
+      "file": "ahrendorf_czech-republic.json",
+      "days": 365
+    },
+    "Ternopil": {
+      "file": "ternopil_ukraine.json",
+      "days": 365
+    },
+    "Abtsdorf": {
+      "file": "abtsdorf_czech-republic.json",
+      "days": 365
+    },
+    "Abaujlak": {
+      "file": "abaujlak_hungary.json",
+      "days": 365
+    },
+    "S Gravenzande": {
+      "file": "s_gravenzande_netherlands.json",
+      "days": 365
+    },
+    "Haarlem": {
+      "file": "haarlem_netherlands.json",
+      "days": 365
+    },
+    "Yellowpit Cross Roads": {
+      "file": "yellowpit_cross_roads_ireland.json",
+      "days": 365
+    },
+    "Riga Central": {
+      "file": "riga_central_latvia.json",
+      "days": 365
+    },
+    "Agassiz": {
+      "file": "agassiz_canada.json",
+      "days": 365
+    },
+    "Karaganda": {
+      "file": "karaganda_kazakhstan.json",
+      "days": 365
+    },
+    "Aadma": {
+      "file": "aadma_estonia.json",
+      "days": 365
+    },
+    "Aandu": {
+      "file": "aandu_estonia.json",
       "days": 365
     },
     "Abagurt": {
       "file": "abagurt_russia.json",
       "days": 365
     },
-    "Burnaby": {
-      "file": "burnaby_canada.json",
+    "Adamowo": {
+      "file": "adamowo_poland.json",
       "days": 365
     },
-    "Adrianopol": {
-      "file": "adrianopol_ukraine.json",
+    "Cork Harbour": {
+      "file": "cork_harbour_ireland.json",
       "days": 365
     },
-    "Inverness": {
-      "file": "inverness_uk.json",
+    "Aalisjarvi": {
+      "file": "aalisjarvi_finland.json",
       "days": 365
     },
-    "Abaucourt": {
-      "file": "abaucourt_france.json",
+    "Vordingborg Kommune": {
+      "file": "vordingborg_kommune_denmark.json",
       "days": 365
     },
-    "Uppsala": {
-      "file": "uppsala_sweden.json",
+    "Brno Venkov": {
+      "file": "brno_venkov_czech-republic.json",
       "days": 365
     },
-    "Reykjavik": {
-      "file": "reykjavik_iceland.json",
+    "Kristiansund Nord": {
+      "file": "kristiansund_nord_norway.json",
+      "days": 365
+    },
+    "Aberstatt": {
+      "file": "aberstatt_austria.json",
+      "days": 365
+    },
+    "Abaga": {
+      "file": "abaga_russia.json",
+      "days": 365
+    },
+    "Adalbol": {
+      "file": "adalbol_iceland.json",
+      "days": 365
+    },
+    "Wattsfell": {
+      "file": "wattsfell_iceland.json",
+      "days": 365
+    },
+    "Wien Brigittenau": {
+      "file": "wien_brigittenau_austria.json",
+      "days": 365
+    },
+    "Kielce": {
+      "file": "kielce_poland.json",
+      "days": 365
+    },
+    "Esbjerg": {
+      "file": "esbjerg_denmark.json",
+      "days": 365
+    },
+    "Augsburg": {
+      "file": "augsburg_germany.json",
+      "days": 365
+    },
+    "Aich": {
+      "file": "aich_czech-republic.json",
+      "days": 365
+    },
+    "Aa Fjorden": {
+      "file": "aa_fjorden_norway.json",
+      "days": 365
+    },
+    "Aachen West": {
+      "file": "aachen_west_germany.json",
+      "days": 365
+    },
+    "Aalistunturi": {
+      "file": "aalistunturi_finland.json",
+      "days": 365
+    },
+    "Abborrberget": {
+      "file": "abborrberget_sweden.json",
+      "days": 365
+    },
+    "Gdansk Glowny": {
+      "file": "gdansk_glowny_poland.json",
+      "days": 365
+    },
+    "Aberaman": {
+      "file": "aberaman_uk.json",
+      "days": 365
+    },
+    "Warsaw": {
+      "file": "warsaw_poland.json",
+      "days": 365
+    },
+    "Mitry Mory": {
+      "file": "mitry_mory_france.json",
+      "days": 365
+    },
+    "Joensuu": {
+      "file": "joensuu_finland.json",
+      "days": 365
+    },
+    "Adamow Nowy": {
+      "file": "adamow_nowy_poland.json",
+      "days": 365
+    },
+    "Adler": {
+      "file": "adler_czech-republic.json",
+      "days": 365
+    },
+    "Abaujszantoi Furdo Vasuti Megallohely": {
+      "file": "abaujszantoi_furdo_vasuti_megallohely_hungary.json",
+      "days": 365
+    },
+    "Minneapolis": {
+      "file": "minneapolis_usa.json",
+      "days": 365
+    },
+    "Oxford": {
+      "file": "oxford_uk.json",
+      "days": 365
+    },
+    "Aetna": {
+      "file": "aetna_canada.json",
+      "days": 365
+    },
+    "Vienna": {
+      "file": "vienna_austria.json",
+      "days": 365
+    },
+    "Kotka": {
+      "file": "kotka_finland.json",
+      "days": 365
+    },
+    "Cardiff": {
+      "file": "cardiff_uk.json",
+      "days": 365
+    },
+    "Courbevoie": {
+      "file": "courbevoie_france.json",
+      "days": 365
+    },
+    "Abington": {
+      "file": "abington_ireland.json",
+      "days": 365
+    },
+    "Ostrava Region": {
+      "file": "ostrava_region_czech-republic.json",
+      "days": 365
+    },
+    "Acheson": {
+      "file": "acheson_canada.json",
+      "days": 365
+    },
+    "Szczecin Pomorzany": {
+      "file": "szczecin_pomorzany_poland.json",
+      "days": 365
+    },
+    "Tartu": {
+      "file": "tartu_estonia.json",
+      "days": 365
+    },
+    "Brest": {
+      "file": "brest_france.json",
+      "days": 365
+    },
+    "Strasbourg": {
+      "file": "strasbourg_france.json",
+      "days": 365
+    },
+    "Abbey": {
+      "file": "abbey_canada.json",
+      "days": 365
+    },
+    "Kursk": {
+      "file": "kursk_russia.json",
+      "days": 365
+    },
+    "Abba Bach": {
+      "file": "abba_bach_germany.json",
       "days": 365
     },
     "Moss": {
       "file": "moss_norway.json",
       "days": 365
     },
-    "Abbachhof": {
-      "file": "abbachhof_germany.json",
+    "Aal Plantage": {
+      "file": "aal_plantage_denmark.json",
       "days": 365
     },
-    "Aabenraa Fjord": {
-      "file": "aabenraa_fjord_denmark.json",
+    "Tromso": {
+      "file": "tromso_norway.json",
+      "days": 365
+    },
+    "Aalkistensee": {
+      "file": "aalkistensee_germany.json",
+      "days": 365
+    },
+    "Malmo Kommun": {
+      "file": "malmo_kommun_sweden.json",
+      "days": 365
+    },
+    "Gliwice": {
+      "file": "gliwice_poland.json",
+      "days": 365
+    },
+    "Argenteuil": {
+      "file": "argenteuil_france.json",
+      "days": 365
+    },
+    "Aalborg": {
+      "file": "aalborg_denmark.json",
+      "days": 365
+    },
+    "Tra Li": {
+      "file": "tra_li_ireland.json",
+      "days": 365
+    },
+    "Aavere": {
+      "file": "aavere_estonia.json",
+      "days": 365
+    },
+    "Namur": {
+      "file": "namur_belgium.json",
+      "days": 365
+    },
+    "Abdie": {
+      "file": "abdie_uk.json",
+      "days": 365
+    },
+    "Edinburgh": {
+      "file": "edinburgh_uk.json",
+      "days": 365
+    },
+    "Montreal": {
+      "file": "montreal_canada.json",
+      "days": 365
+    },
+    "Abberyd": {
+      "file": "abberyd_sweden.json",
+      "days": 365
+    },
+    "Abay Audany": {
+      "file": "abay_audany_kazakhstan.json",
+      "days": 365
+    },
+    "Aalderstroom": {
+      "file": "aalderstroom_netherlands.json",
+      "days": 365
+    },
+    "Dublin": {
+      "file": "dublin_ireland.json",
+      "days": 365
+    },
+    "Aabo": {
+      "file": "aabo_denmark.json",
+      "days": 365
+    },
+    "Aabla": {
+      "file": "aabla_estonia.json",
+      "days": 365
+    },
+    "Leicester": {
+      "file": "leicester_uk.json",
+      "days": 365
+    },
+    "Abbetorp": {
+      "file": "abbetorp_sweden.json",
+      "days": 365
+    },
+    "Eskilstuna": {
+      "file": "eskilstuna_sweden.json",
+      "days": 365
+    },
+    "Oral": {
+      "file": "oral_kazakhstan.json",
+      "days": 365
+    },
+    "Abbecourt": {
+      "file": "abbecourt_france.json",
+      "days": 365
+    },
+    "Krakow": {
+      "file": "krakow_poland.json",
+      "days": 365
+    },
+    "Linz Stadt": {
+      "file": "linz_stadt_austria.json",
+      "days": 365
+    },
+    "A Beek": {
+      "file": "a_beek_netherlands.json",
+      "days": 365
+    },
+    "Renaix": {
+      "file": "renaix_belgium.json",
+      "days": 365
+    },
+    "Bochum": {
+      "file": "bochum_germany.json",
+      "days": 365
+    },
+    "Acres Point": {
+      "file": "acres_point_ireland.json",
+      "days": 365
+    },
+    "Abaujalpar": {
+      "file": "abaujalpar_hungary.json",
+      "days": 365
+    },
+    "Adamovo": {
+      "file": "adamovo_belarus.json",
+      "days": 365
+    },
+    "Aa Skerry": {
+      "file": "aa_skerry_uk.json",
+      "days": 365
+    },
+    "Abborremala": {
+      "file": "abborremala_sweden.json",
+      "days": 365
+    },
+    "Narvik": {
+      "file": "narvik_norway.json",
+      "days": 365
+    },
+    "Abbeshult": {
+      "file": "abbeshult_sweden.json",
+      "days": 365
+    },
+    "Kiev": {
+      "file": "kiev_ukraine.json",
+      "days": 365
+    },
+    "Aatoila": {
+      "file": "aatoila_finland.json",
+      "days": 365
+    },
+    "Garges Les Gonesse": {
+      "file": "garges_les_gonesse_france.json",
+      "days": 365
+    },
+    "Achtyrka": {
+      "file": "achtyrka_ukraine.json",
+      "days": 365
+    },
+    "Abeles": {
+      "file": "abeles_latvia.json",
+      "days": 365
+    },
+    "Abbeville House": {
+      "file": "abbeville_house_ireland.json",
+      "days": 365
+    },
+    "Cork Lough": {
+      "file": "cork_lough_ireland.json",
+      "days": 365
+    },
+    "Nottingham": {
+      "file": "nottingham_uk.json",
+      "days": 365
+    },
+    "Saint Denis": {
+      "file": "saint_denis_france.json",
+      "days": 365
+    },
+    "Kirovograd": {
+      "file": "kirovograd_ukraine.json",
+      "days": 365
+    },
+    "Port Laoise": {
+      "file": "port_laoise_ireland.json",
+      "days": 365
+    },
+    "Karlovy Vary": {
+      "file": "karlovy_vary_czech-republic.json",
+      "days": 365
+    },
+    "Abakanovo": {
+      "file": "abakanovo_russia.json",
+      "days": 365
+    },
+    "Abbekas": {
+      "file": "abbekas_sweden.json",
+      "days": 365
+    },
+    "T Goy": {
+      "file": "t_goy_netherlands.json",
+      "days": 365
+    },
+    "Aaltokangas": {
+      "file": "aaltokangas_finland.json",
+      "days": 365
+    },
+    "Utrecht": {
+      "file": "utrecht_netherlands.json",
+      "days": 365
+    },
+    "Aalbeek": {
+      "file": "aalbeek_netherlands.json",
+      "days": 365
+    },
+    "Aartoluoto": {
+      "file": "aartoluoto_russia.json",
+      "days": 365
+    },
+    "S Gravendeel": {
+      "file": "s_gravendeel_netherlands.json",
+      "days": 365
+    },
+    "Aartrijke": {
+      "file": "aartrijke_belgium.json",
+      "days": 365
+    },
+    "Aal See": {
+      "file": "aal_see_germany.json",
+      "days": 365
+    },
+    "Ahornberg": {
+      "file": "ahornberg_czech-republic.json",
+      "days": 365
+    },
+    "Belfast": {
+      "file": "belfast_uk.json",
+      "days": 365
+    },
+    "Linz": {
+      "file": "linz_austria.json",
+      "days": 365
+    },
+    "Bergen Op Zoom": {
+      "file": "bergen_op_zoom_netherlands.json",
+      "days": 365
+    },
+    "Abhoca": {
+      "file": "abhoca_ireland.json",
+      "days": 365
+    },
+    "Accrour Bridge": {
+      "file": "accrour_bridge_ireland.json",
+      "days": 365
+    },
+    "Wienerhohe": {
+      "file": "wienerhohe_austria.json",
+      "days": 365
+    },
+    "Darhan": {
+      "file": "darhan_mongolia.json",
+      "days": 365
+    },
+    "Abzugsgraben": {
+      "file": "abzugsgraben_austria.json",
+      "days": 365
+    },
+    "Saarbrucken": {
+      "file": "saarbrucken_germany.json",
+      "days": 365
+    },
+    "Adersbach": {
+      "file": "adersbach_czech-republic.json",
+      "days": 365
+    },
+    "Nijmegen": {
+      "file": "nijmegen_netherlands.json",
+      "days": 365
+    },
+    "Calgary": {
+      "file": "calgary_canada.json",
+      "days": 365
+    },
+    "Sarcelles": {
+      "file": "sarcelles_france.json",
+      "days": 365
+    },
+    "Abaujszolnok": {
+      "file": "abaujszolnok_hungary.json",
+      "days": 365
+    },
+    "Abjaku": {
+      "file": "abjaku_estonia.json",
+      "days": 365
+    },
+    "Abbots Langley": {
+      "file": "abbots_langley_uk.json",
+      "days": 365
+    },
+    "Aapajarvi": {
+      "file": "aapajarvi_finland.json",
+      "days": 365
+    },
+    "Aale": {
+      "file": "aale_denmark.json",
+      "days": 365
+    },
+    "Abbots Leigh": {
+      "file": "abbots_leigh_uk.json",
+      "days": 365
+    },
+    "Malmo Central": {
+      "file": "malmo_central_sweden.json",
+      "days": 365
+    },
+    "S Heer Arendskerke": {
+      "file": "s_heer_arendskerke_netherlands.json",
+      "days": 365
+    },
+    "Capital Region": {
+      "file": "capital_region_iceland.json",
+      "days": 365
+    },
+    "A Ghairbhe": {
+      "file": "a_ghairbhe_uk.json",
+      "days": 365
+    },
+    "Tartumaa": {
+      "file": "tartumaa_estonia.json",
+      "days": 365
+    },
+    "S Gravenmoer": {
+      "file": "s_gravenmoer_netherlands.json",
+      "days": 365
+    },
+    "Abbotsbury": {
+      "file": "abbotsbury_uk.json",
+      "days": 365
+    },
+    "Halifax": {
+      "file": "halifax_canada.json",
+      "days": 365
+    },
+    "Olsztyn": {
+      "file": "olsztyn_poland.json",
+      "days": 365
+    },
+    "Astana": {
+      "file": "astana_kazakhstan.json",
+      "days": 365
+    },
+    "A La Chaire": {
+      "file": "a_la_chaire_belgium.json",
+      "days": 365
+    },
+    "Lugansk": {
+      "file": "lugansk_ukraine.json",
+      "days": 365
+    },
+    "Adamkowo": {
+      "file": "adamkowo_poland.json",
+      "days": 365
+    },
+    "Butgenbach": {
+      "file": "butgenbach_belgium.json",
+      "days": 365
+    },
+    "Abbots Cliff": {
+      "file": "abbots_cliff_uk.json",
+      "days": 365
+    },
+    "Brussels Capital Region": {
+      "file": "brussels_capital_region_belgium.json",
+      "days": 365
+    },
+    "Aubervilliers": {
+      "file": "aubervilliers_france.json",
+      "days": 365
+    },
+    "Ekenas": {
+      "file": "ekenas_finland.json",
+      "days": 365
+    },
+    "Aaspere": {
+      "file": "aaspere_estonia.json",
+      "days": 365
+    },
+    "Aaby": {
+      "file": "aaby_denmark.json",
+      "days": 365
+    },
+    "Brno Kralovo": {
+      "file": "brno_kralovo_czech-republic.json",
+      "days": 365
+    },
+    "Ach": {
+      "file": "ach_austria.json",
+      "days": 365
+    },
+    "Plzen Sever": {
+      "file": "plzen_sever_czech-republic.json",
+      "days": 365
+    },
+    "Bialystok Fabryczny": {
+      "file": "bialystok_fabryczny_poland.json",
+      "days": 365
+    },
+    "Stockholms Kommun": {
+      "file": "stockholms_kommun_sweden.json",
+      "days": 365
+    },
+    "Afangi": {
+      "file": "afangi_iceland.json",
+      "days": 365
+    },
+    "Aalbude": {
+      "file": "aalbude_germany.json",
+      "days": 365
+    },
+    "Abbach": {
+      "file": "abbach_germany.json",
+      "days": 365
+    },
+    "Helsinki": {
+      "file": "helsinki_finland.json",
+      "days": 365
+    },
+    "Edmonton": {
+      "file": "edmonton_canada.json",
+      "days": 365
+    },
+    "Albrechtice U Rymarova": {
+      "file": "albrechtice_u_rymarova_czech-republic.json",
+      "days": 365
+    },
+    "Liverpool": {
+      "file": "liverpool_uk.json",
+      "days": 365
+    },
+    "A I Lofoten": {
+      "file": "a_i_lofoten_norway.json",
+      "days": 365
+    },
+    "Abaujszanto": {
+      "file": "abaujszanto_hungary.json",
+      "days": 365
+    },
+    "Abaujszanto Vasutallomas": {
+      "file": "abaujszanto_vasutallomas_hungary.json",
+      "days": 365
+    },
+    "Achill Head": {
+      "file": "achill_head_ireland.json",
+      "days": 365
+    },
+    "Abach": {
+      "file": "abach_germany.json",
+      "days": 365
+    },
+    "Brno Region": {
+      "file": "brno_region_czech-republic.json",
+      "days": 365
+    },
+    "A L Assaint": {
+      "file": "a_l_assaint_belgium.json",
+      "days": 365
+    },
+    "Aasla": {
+      "file": "aasla_finland.json",
+      "days": 365
+    },
+    "Aarela": {
+      "file": "aarela_finland.json",
+      "days": 365
+    },
+    "Kristiansand Sor": {
+      "file": "kristiansand_sor_norway.json",
+      "days": 365
+    },
+    "Riga": {
+      "file": "riga_latvia.json",
+      "days": 365
+    },
+    "Abertamy": {
+      "file": "abertamy_czech-republic.json",
+      "days": 365
+    },
+    "Utrecht Centraal Station": {
+      "file": "utrecht_centraal_station_netherlands.json",
+      "days": 365
+    },
+    "Ipa": {
+      "file": "ipa_belarus.json",
+      "days": 365
+    },
+    "Akmola": {
+      "file": "akmola_kazakhstan.json",
+      "days": 365
+    },
+    "Aalborg Ost": {
+      "file": "aalborg_ost_denmark.json",
+      "days": 365
+    },
+    "Jyvaskyla": {
+      "file": "jyvaskyla_finland.json",
+      "days": 365
+    },
+    "Maastricht": {
+      "file": "maastricht_netherlands.json",
+      "days": 365
+    },
+    "Narva": {
+      "file": "narva_estonia.json",
+      "days": 365
+    },
+    "Abermani": {
+      "file": "abermani_latvia.json",
+      "days": 365
+    },
+    "Alba": {
+      "file": "alba_belarus.json",
+      "days": 365
+    },
+    "Aalderveld": {
+      "file": "aalderveld_netherlands.json",
+      "days": 365
+    },
+    "Saint Ouen": {
+      "file": "saint_ouen_france.json",
+      "days": 365
+    },
+    "Aa Bach": {
+      "file": "aa_bach_germany.json",
+      "days": 365
+    },
+    "Admiral": {
+      "file": "admiral_canada.json",
+      "days": 365
+    },
+    "Gorky": {
+      "file": "gorky_russia.json",
+      "days": 365
+    },
+    "Derby": {
+      "file": "derby_uk.json",
+      "days": 365
+    },
+    "Abstetten": {
+      "file": "abstetten_austria.json",
+      "days": 365
+    },
+    "Abaujker Vasuti Megallohely": {
+      "file": "abaujker_vasuti_megallohely_hungary.json",
+      "days": 365
+    },
+    "S Heerenhoek": {
+      "file": "s_heerenhoek_netherlands.json",
+      "days": 365
+    },
+    "Limerick Bridge": {
+      "file": "limerick_bridge_ireland.json",
+      "days": 365
+    },
+    "A Marfontaine": {
+      "file": "a_marfontaine_belgium.json",
+      "days": 365
+    },
+    "Kortrijk": {
+      "file": "kortrijk_belgium.json",
+      "days": 365
+    },
+    "Abbey Mount": {
+      "file": "abbey_mount_ireland.json",
+      "days": 365
+    },
+    "Chelyabinsk 70": {
+      "file": "chelyabinsk_70_russia.json",
+      "days": 365
+    },
+    "Abbert River": {
+      "file": "abbert_river_ireland.json",
+      "days": 365
+    },
+    "Abak": {
+      "file": "abak_russia.json",
+      "days": 365
+    },
+    "Zion Hill": {
+      "file": "zion_hill_ireland.json",
+      "days": 365
+    },
+    "Adrov": {
+      "file": "adrov_belarus.json",
+      "days": 365
+    },
+    "Dublin Castle": {
+      "file": "dublin_castle_ireland.json",
+      "days": 365
+    },
+    "Aalbaek Havn": {
+      "file": "aalbaek_havn_denmark.json",
+      "days": 365
+    },
+    "Novogrudok": {
+      "file": "novogrudok_belarus.json",
+      "days": 365
+    },
+    "Aard": {
+      "file": "aard_belgium.json",
+      "days": 365
+    },
+    "Gent": {
+      "file": "gent_belgium.json",
+      "days": 365
+    },
+    "Aadami": {
+      "file": "aadami_estonia.json",
+      "days": 365
+    },
+    "Oostende": {
+      "file": "oostende_belgium.json",
+      "days": 365
+    },
+    "Abaujker": {
+      "file": "abaujker_hungary.json",
+      "days": 365
+    },
+    "Pantin": {
+      "file": "pantin_france.json",
+      "days": 365
+    },
+    "Aanaar": {
+      "file": "aanaar_finland.json",
+      "days": 365
+    },
+    "Burnaby": {
+      "file": "burnaby_canada.json",
+      "days": 365
+    },
+    "A Clapette": {
+      "file": "a_clapette_belgium.json",
+      "days": 365
+    },
+    "Albertsthal": {
+      "file": "albertsthal_czech-republic.json",
+      "days": 365
+    },
+    "Aakre": {
+      "file": "aakre_estonia.json",
+      "days": 365
+    },
+    "Munich": {
+      "file": "munich_germany.json",
+      "days": 365
+    },
+    "Rigas Rajons": {
+      "file": "rigas_rajons_latvia.json",
+      "days": 365
+    },
+    "Abborgrundet": {
+      "file": "abborgrundet_sweden.json",
+      "days": 365
+    },
+    "Adami": {
+      "file": "adami_latvia.json",
+      "days": 365
+    },
+    "Vatnajokull": {
+      "file": "vatnajokull_iceland.json",
+      "days": 365
+    },
+    "Selfoss": {
+      "file": "selfoss_iceland.json",
+      "days": 365
+    },
+    "Dordrecht": {
+      "file": "dordrecht_netherlands.json",
+      "days": 365
+    },
+    "Abbotrule": {
+      "file": "abbotrule_uk.json",
+      "days": 365
+    },
+    "Hannover": {
+      "file": "hannover_germany.json",
+      "days": 365
+    },
+    "Afangagil": {
+      "file": "afangagil_iceland.json",
+      "days": 365
+    },
+    "S Gravenpolder": {
+      "file": "s_gravenpolder_netherlands.json",
+      "days": 365
+    },
+    "Aasamaa": {
+      "file": "aasamaa_finland.json",
+      "days": 365
+    },
+    "Abbotskerswell": {
+      "file": "abbotskerswell_uk.json",
+      "days": 365
+    },
+    "Air Ronge": {
+      "file": "air_ronge_canada.json",
+      "days": 365
+    },
+    "Breda": {
+      "file": "breda_netherlands.json",
+      "days": 365
+    },
+    "Aarle": {
+      "file": "aarle_belgium.json",
+      "days": 365
+    },
+    "Adamova": {
+      "file": "adamova_belarus.json",
+      "days": 365
+    },
+    "Abschermeningken": {
+      "file": "abschermeningken_poland.json",
+      "days": 365
+    },
+    "Aguathuna": {
+      "file": "aguathuna_canada.json",
+      "days": 365
+    },
+    "Grindavik": {
+      "file": "grindavik_iceland.json",
+      "days": 365
+    },
+    "Abeli": {
+      "file": "abeli_latvia.json",
+      "days": 365
+    },
+    "Krakowa": {
+      "file": "krakowa_poland.json",
+      "days": 365
+    },
+    "Aakenusvaara": {
+      "file": "aakenusvaara_finland.json",
+      "days": 365
+    },
+    "Abbots Bromley": {
+      "file": "abbots_bromley_uk.json",
+      "days": 365
+    },
+    "Abza": {
+      "file": "abza_latvia.json",
+      "days": 365
+    },
+    "Dublin Harbour": {
+      "file": "dublin_harbour_ireland.json",
+      "days": 365
+    },
+    "Abberley": {
+      "file": "abberley_uk.json",
+      "days": 365
+    },
+    "Limerick Junction": {
+      "file": "limerick_junction_ireland.json",
+      "days": 365
+    },
+    "Aabol": {
+      "file": "aabol_denmark.json",
+      "days": 365
+    },
+    "Tilburg": {
+      "file": "tilburg_netherlands.json",
+      "days": 365
+    },
+    "Aardla": {
+      "file": "aardla_estonia.json",
+      "days": 365
+    },
+    "Namsos": {
+      "file": "namsos_norway.json",
+      "days": 365
+    },
+    "Januki": {
+      "file": "januki_belarus.json",
+      "days": 365
+    },
+    "Osakarovka": {
+      "file": "osakarovka_kazakhstan.json",
+      "days": 365
+    },
+    "Aakenustunturi": {
+      "file": "aakenustunturi_finland.json",
       "days": 365
     }
   },
-  "last_updated": "2026-07-04T02:25:54Z",
-  "total_cities": 864
+  "total_cities": 863,
+  "last_updated": "2026-08-01T02:13:43Z"
 }
